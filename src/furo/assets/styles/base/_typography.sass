@@ -3,6 +3,8 @@
 
 body
   font-family: var(--font-stack)
+  font-size: var(--font-size--normal)
+
 pre,
 code,
 kbd,
@@ -27,10 +29,12 @@ h3,
 h4,
 h5,
 h6
+  color: var(--color-heading)
+
   line-height: 1.25
   font-weight: bold
 
-  border-radius: 0.5rem
+  border: none
   margin-top: 0.5rem
   margin-bottom: 0.5rem
   margin-left: -0.5rem
@@ -42,20 +46,43 @@ h6
     margin-top: 0
 
 h1
-  font-size: 2.5em
+  font-size: 1.8em
   margin-top: 1.75rem
   margin-bottom: 1rem
 h2
-  font-size: 2em
+  font-size: 1.3em
   margin-top: 1.75rem
+  font-weight: bold
 h3
-  font-size: 1.5em
+  font-size: 1.15em
 h4
-  font-size: 1.25em
+  font-size: 1.05em
 h5
-  font-size: 1.125em
+  font-size: .95em
 h6
-  font-size: 1em
+  font-size: .9em
+
+@media (min-width: $full-width - $sidebar-width)
+  h2
+    position: absolute
+    left: 0
+
+    text-align: right
+
+    width: $aside-width
+
+    margin: -2rem 2rem 0 1rem
+    padding-top: 2rem
+    padding-left: 0
+    padding-right: 0
+
+    > .headerlink
+        position: absolute
+        top: 0
+        right: 0
+
+    + p
+      margin-top: 3rem
 
 small
   opacity: 75%
@@ -92,3 +119,9 @@ a
     &:hover
       color: var(--color-link)
       text-decoration-color: var(--color-link-underline--hover)
+
+aside
+  font-family: var(--font-stack--secondary)
+
+.content a
+  font-weight: 700

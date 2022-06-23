@@ -6,20 +6,36 @@
 //
 // `colors-dark` depends on `colors` being included at a lower specificity.
 
+$white-ish: #f0f0f0;
+$lighter-grey: #DDD6D2;
+$light-grey: #8F9799;
+$mid-grey: #3A3535;
+$dark-charcoal: #181e22; // #1E2125;
+
+$light-blue: #677E8D;
+$dark-blue: #3D4F5B;
+
+$grey-brown: #9F9793;
+$light-brown: #C6B2A7;
+$mid-brown: #816E62;
+$dark-brown: #322620;
+
 @mixin colors {
   --color-problematic: #b30000;
+  --color-heading: #{$mid-brown};
 
   // Base Colors
-  --color-foreground-primary: black; // for main text and headings
-  --color-foreground-secondary: #5a5c63; // for secondary text
-  --color-foreground-muted: #646776; // for muted text
-  --color-foreground-border: #878787; // for content borders
+  --color-foreground-primary: #{$dark-charcoal}; // for main text and headings
+  --color-foreground-secondary: #{$mid-brown}; // for secondary text
+  --color-foreground-muted: #{$grey-brown}; // for muted text
+  --color-foreground-border: #{$light-grey}; // for content borders
 
-  --color-background-primary: white; // for content
-  --color-background-secondary: #f8f9fb; // for navigation + ToC
+  --color-background-primary: #{$white-ish}; // for content
+  --color-background-secondary: #{$dark-blue}; // for navigation
+  --color-background-tertiary: #{$mid-brown}; // for in-page contents
   --color-background-hover: #efeff4ff; // for navigation-item hover
   --color-background-hover--transparent: #efeff400;
-  --color-background-border: #eeebee; // for UI borders
+  --color-background-border: #{$light-brown}; // for UI borders
   --color-background-item: #ccc; // for "background" items (eg: copybutton)
 
   // Announcements
@@ -27,8 +43,8 @@
   --color-announcement-text: #eeebee;
 
   // Brand colors
-  --color-brand-primary: #2962ff;
-  --color-brand-content: #2a5adf;
+  --color-brand-primary: #{$white-ish};
+  --color-brand-content: #{$mid-brown};
 
   // API documentation
   --color-api-background: var(--color-background-secondary);
@@ -38,7 +54,7 @@
   --color-api-pre-name: var(--color-problematic);
   --color-api-paren: var(--color-foreground-secondary);
   --color-api-keyword: var(--color-foreground-primary);
-  --color-highlight-on-target: #ffffcc;
+  --color-highlight-on-target: transparent;
 
   // Inline code background
   --color-inline-code-background: var(--color-background-secondary);
@@ -82,19 +98,14 @@
 
   --color-sidebar-brand-text: var(--color-foreground-primary);
   --color-sidebar-caption-text: var(--color-foreground-muted);
-  --color-sidebar-link-text: var(--color-foreground-secondary);
-  --color-sidebar-link-text--top-level: var(--color-brand-primary);
+  --color-sidebar-link-text: #{$white-ish};
+  --color-sidebar-link-text--top-level: #{$white-ish};
 
   --color-sidebar-item-background: var(--color-sidebar-background);
   --color-sidebar-item-background--current: var(
     --color-sidebar-item-background
   );
-  --color-sidebar-item-background--hover: linear-gradient(
-    90deg,
-    var(--color-background-hover--transparent) 0%,
-    var(--color-background-hover) var(--sidebar-item-spacing-horizontal),
-    var(--color-background-hover) 100%
-  );
+  --color-sidebar-item-background--hover: #{$white-ish};
 
   --color-sidebar-item-expander-background: transparent;
   --color-sidebar-item-expander-background--hover: var(
@@ -110,35 +121,37 @@
   // Table of Contents (right)
   --color-toc-background: var(--color-background-primary);
   --color-toc-title-text: var(--color-foreground-muted);
-  --color-toc-item-text: var(--color-foreground-secondary);
+  --color-toc-item-text: #{$dark-brown};
   --color-toc-item-text--hover: var(--color-foreground-primary);
-  --color-toc-item-text--active: var(--color-brand-primary);
+  --color-toc-item-text--active: #{$light-brown};
 
   // Actual page contents
   --color-content-foreground: var(--color-foreground-primary);
   --color-content-background: transparent;
 
   // Links
-  --color-link: var(--color-brand-content);
-  --color-link--hover: var(--color-brand-content);
-  --color-link-underline: var(--color-background-border);
-  --color-link-underline--hover: var(--color-foreground-border);
+  --color-link: #{$dark-blue};
+  --color-link--hover: #{$light-blue};
+  --color-link-underline: #{$light-blue};
+  --color-link-underline--hover: #{$dark-blue};
 }
 
 @mixin colors-dark {
+  --color-heading: #{$lighter-grey};
   --color-problematic: #ee5151;
 
   // Base Colors
-  --color-foreground-primary: #ffffffcc; // for main text and headings
-  --color-foreground-secondary: #9ca0a5; // for secondary text
+  --color-foreground-primary: #{$white-ish}; // for main text and headings
+  --color-foreground-secondary: #{$lighter-grey}; // for secondary text
   --color-foreground-muted: #81868d; // for muted text
   --color-foreground-border: #666666; // for content borders
 
-  --color-background-primary: #131416; // for content
-  --color-background-secondary: #1a1c1e; // for navigation + ToC
+  --color-background-primary: #{$dark-brown}; // for content
+  --color-background-secondary: #{$dark-blue}; // for navigation + ToC
+  --color-background-tertiary: green; // for navigation + ToC
   --color-background-hover: #1e2124ff; // for navigation-item hover
   --color-background-hover--transparent: #1e212400;
-  --color-background-border: #303335; // for UI borders
+  --color-background-border: #{$white-ish}; // for UI borders
   --color-background-item: #444; // for "background" items (eg: copybutton)
 
   // Announcements
@@ -158,7 +171,7 @@
 
   // API documentation
   --color-api-keyword: var(--color-foreground-secondary);
-  --color-highlight-on-target: #333300;
+  --color-highlight-on-target: transparent;
 
   // Admonitions
   --color-admonition-background: #18181a;
@@ -167,4 +180,17 @@
   --color-card-border: var(--color-background-secondary);
   --color-card-background: #18181a;
   --color-card-marginals-background: var(--color-background-hover);
+
+  // Table of Contents (right)
+  --color-toc-background: var(--color-background-primary);
+  --color-toc-title-text: var(--color-foreground-muted);
+  --color-toc-item-text: #{$lighter-grey};
+  --color-toc-item-text--hover: var(--color-foreground-primary);
+  --color-toc-item-text--active: #{$light-brown};
+
+  // Links
+  --color-link: #{$light-grey};
+  --color-link--hover: {$lighter-grey};
+  --color-link-underline: {$lighter-grey};
+  --color-link-underline--hover: #{$light-grey};
 }

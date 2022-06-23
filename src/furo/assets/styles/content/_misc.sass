@@ -25,7 +25,9 @@ kbd:not(.compound)
 // Blockquote
 blockquote
   border-left: 4px solid var(--color-background-border)
-  background: var(--color-background-secondary)
+  background: transparent
+  font-weight: 300
+  font-size: 95%
 
   margin-left: 0
   margin-right: 0
@@ -43,6 +45,13 @@ blockquote
   &.pull-quote
     border-left-width: 0
     border-radius: 0.5rem
+    padding: 1em 0 1em 3em
+    font-weight: 600
+
+    p.attribution
+      padding-left: 3em
+      font-style: normal
+      font-weight: 300
 
   &.highlights
     border-left-width: 0

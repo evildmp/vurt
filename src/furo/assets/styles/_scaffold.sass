@@ -80,12 +80,16 @@ article
 .main
   display: flex
   flex: 1
+  background-color: var(--color-background-secondary)
+
+  @media (max-width: $full-width)
+    background-color: var(--color-background-primary)
+
 
 // Sidebar (left) also covers the entire left portion of screen.
 .sidebar-drawer
   box-sizing: border-box
 
-  border-right: 1px solid var(--color-sidebar-background-border)
   background: var(--color-sidebar-background)
 
   display: flex
@@ -131,6 +135,8 @@ article
   display: flex
   flex-direction: column
   justify-content: space-between
+
+  background-color: var(--color-background-primary)
 
 .icon
   display: inline-block
@@ -322,9 +328,24 @@ article
 // Responsive layouting
 ////////////////////////////////////////////////////////////////////////////////
 // Make things a bit bigger on bigger screens.
+
 @media (min-width: $full-width + $sidebar-width)
   html
     font-size: 110%
+
+@media (min-width: $full-width - $sidebar-width)
+  .content
+    padding-left: $content-padding--for-aside
+    position: relative
+
+    *.wider
+      width: 50em
+      max-width: 50em
+      margin-left: 0
+      margin-right: 0
+      left: -14em
+      position: relative
+
 
 @media (max-width: $full-width)
   // Collapse "toc" into the icon.
@@ -343,6 +364,7 @@ article
   // Accomodate for a changed content width.
   .sidebar-drawer
     width: calc((100% - #{$full-width - $sidebar-width}) / 2 + #{$sidebar-width})
+
 
 @media (max-width: $full-width - $sidebar-width)
   // Collapse "navigation".

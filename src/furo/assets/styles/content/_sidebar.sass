@@ -1,14 +1,13 @@
-article .sidebar
-  float: right
-  clear: right
-  width: 30%
+// narrow widths
 
-  margin-left: 1rem
-  margin-right: 0
+article .sidebar
 
   border-radius: 0.2rem
   background-color: var(--color-background-secondary)
   border: var(--color-background-border) 1px solid
+
+  font-family: var(--font-stack--secondary)
+  font-size: 80%
 
   > *
     padding-left: 1rem
@@ -24,5 +23,36 @@ article .sidebar
 
     font-weight: 500
 
-// TODO: subtitle
-// TODO: dedicated variables?
+// wide enough to warrant .sidebars of 50% width
+
+@media (min-width: $content-width + 2 * $content-padding)
+  article .sidebar
+
+    float: right
+    clear: right
+    width: 50%
+
+    margin-left: 1rem
+    margin-right: 0
+
+// wide enough that .sidebars drop into the padding-left
+// article .sidebar, article section h2
+
+@media (min-width: $full-width - $sidebar-width)
+  article .sidebar
+
+    position: absolute
+    left: 0
+
+    text-align: right
+
+    width: $aside-width
+
+    background-color: transparent
+    border: none
+
+    padding: 0
+
+    > *
+      padding-left: 0
+      padding-right: 0

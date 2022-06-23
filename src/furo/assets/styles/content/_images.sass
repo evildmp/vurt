@@ -7,6 +7,22 @@ img
   height: auto
 
 article
+
+  img, figure
+    margin-top: 1rem
+    margin-bottom: 1rem
+
+  img.sidebar
+      margin-top: 0
+      margin-bottom: 0
+
+  @media (min-width: $full-width - 2 * $sidebar-width)
+    img.floated
+      width: 50%
+      float: right
+      margin-bottom: 1rem
+      margin-left: 1rem
+
   figure, .figure
     border-radius: 0.2rem
 
@@ -14,22 +30,39 @@ article
     :last-child
       margin-bottom: 0
 
+  figcaption .headerlink
+      position: absolute
+      top: 0
+      right: 0
+
+
+  .caption-text
+    font-style: italic
+    color: var(--color-foreground-secondary)
+
   .align-left
     float: left
     clear: left
-    margin: 0 1rem 1rem
+    margin-left: 1rem
+    margin-right: 1rem
 
   .align-right
     float: right
     clear: right
-    margin: 0 1rem 1rem
+    margin-left: 1rem
+    margin-right: 1rem
 
   .align-default,
   .align-center
     display: block
-    text-align: center
     margin-left: auto
     margin-right: auto
+
+  .align-default
+    text-align: right
+
+  .align-center
+    text-align: center
 
   // WELL, table needs to be stylised like a table.
   table.align-default

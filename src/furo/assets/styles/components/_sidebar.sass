@@ -165,6 +165,7 @@
 
     font-weight: bold
     text-transform: uppercase
+    font-style: italic
 
     margin: var(--sidebar-caption-space-above) 0 0 0
     padding: var(--sidebar-item-spacing-vertical) var(--sidebar-item-spacing-horizontal)
@@ -180,6 +181,9 @@
     & > .reference,
     & > label .icon
       color: var(--color-sidebar-link-text--top-level)
+
+      &:hover
+        color: var(--color-sidebar-item-background)
 
   // Color changes on hover
   label

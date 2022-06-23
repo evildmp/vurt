@@ -13,6 +13,10 @@
 .headerlink
   font-weight: 100
   user-select: none
+  color: var(--color-heading)
+
+  &:hover
+  text-decoration: none
 
 h1,
 h2,
@@ -51,8 +55,8 @@ span:target ~ // Non-regular span[id] style "extra" anchors
   h6
     &:nth-of-type(1)
       background-color: var(--color-highlight-on-target)
-      // .headerlink
-      //   visibility: visible
+      .headerlink
+        visibility: visible
       code.literal
         background-color: transparent
 

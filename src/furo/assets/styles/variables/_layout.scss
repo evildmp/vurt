@@ -2,8 +2,12 @@
 //
 // Because CSS variables can't be used in media queries. The fact that this
 // makes the layout non-user-configurable is a good thing.
-$content-padding: 3em;
-$content-padding--small: 1em;
-$content-width: 46em;
-$sidebar-width: 15em;
-$full-width: $content-width + 2 * ($content-padding + $sidebar-width);
+
+// $sidebar-width + $content-padding + $content-width + $content-padding + $sidebar-width = 81
+$content-padding: 1rem;
+$content-padding--for-aside: 15rem;
+$content-padding--small: 1rem;
+$content-width: 36rem;
+$sidebar-width: 14rem;
+$aside-width: 13rem;
+$full-width: $content-width + $content-padding + $content-padding--for-aside + 2 * $sidebar-width;
