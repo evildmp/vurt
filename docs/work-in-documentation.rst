@@ -89,6 +89,11 @@ Workshops and training
 
 I regularly run training workshops, usually to support open-source software projects.
 
+Forthcoming:
+
+* a series of workshops for the Python Software Foundation, to assist Python's adoption of Diátaxis (details
+  available soon)
+
 Workshops in recent months include:
 
 * a series of sessions for research software engineers, held as part of fellowship of the
@@ -113,4 +118,4 @@ or providing training to contributors.
 Some examples: `Django <https://djangoproject.com/>`_, `pytest <https://pytest.org/>`_, `django
 CMS <https://djang-cms.org/>`_, `BeeWare <https://beeware.org/>`_, `Wagtail
 <https://wagtail.org>`_. At the time of writing, I'm working with `Rinohtype
-<https://www.mos6581.org/rinohtype/master/>`_, and with Python itself.
+<https://www.mos6581.org/rinohtype/master/>`_.

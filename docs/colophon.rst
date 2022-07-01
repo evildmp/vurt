@@ -2,8 +2,8 @@ Colophon
 ========
 
 This website is built with reStructuredText and Sphinx. It uses a modified version of `Pradyun
-Gedam's Furo theme <https://pradyunsg.me/furo/>`_. It's hosted at `Read the Docs
-<https://readthedocs.org>`_.
+Gedam's Furo theme <https://pradyunsg.me/furo/>`_. It's hosted at `Divio
+<https://divio.com/>`_.
 
 Colours
 -------

@@ -7,8 +7,7 @@ Daniele Procida
 
 I'm Daniele.
 
-I'd like to humanise software. Unfortunately, considerably more people seem to want to
-softwarise humans.
+I think it would be better to humanise software than softwarise humans.
 
 I live in Cardiff, UK and Leiden, NL.
 
