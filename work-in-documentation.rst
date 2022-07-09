@@ -91,8 +91,10 @@ I regularly run training workshops, usually to support open-source software proj
 
 Forthcoming:
 
-* a series of workshops for the Python Software Foundation, to assist Python's adoption of Diátaxis (details
-  available soon)
+* `a series of workshops for the Python Software Foundation
+  <https://discuss.python.org/t/announcing-the-diataxis-documentation-workshop/17075>`_, to assist Python's adoption of
+  Diátaxis 
+* *Introduction to Diátaxis* workshop at `DjangoCon Europe <https://2022.djangocon.eu/home/>`_
 
 Workshops in recent months include:
 
