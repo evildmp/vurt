@@ -13,6 +13,8 @@ COPY default.conf /etc/nginx/conf.d/default.conf
 RUN pip install -r compiled-requirements.txt
 RUN sphinx-build -b dirhtml . _build/html
 
+RUN ls _build/
+
 COPY _build/html /usr/share/nginx/html
 
 EXPOSE 80
