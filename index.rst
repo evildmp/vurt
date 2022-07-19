@@ -65,4 +65,5 @@ If you use Twitter, I am `@EvilDMP <https://twitter.com/EvilDMP>`_.
     work-in-documentation
     my-projects
     python-in-africa
+    events
     colophon

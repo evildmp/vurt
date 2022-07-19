@@ -89,20 +89,7 @@ Workshops and training
 
 I regularly run training workshops, usually to support open-source software projects.
 
-Forthcoming:
-
-* `a series of workshops for the Python Software Foundation
-  <https://discuss.python.org/t/announcing-the-diataxis-documentation-workshop/17075>`_, to assist Python's adoption of
-  Diátaxis 
-* *Introduction to Diátaxis* workshop at `DjangoCon Europe <https://2022.djangocon.eu/home/>`_
-
-Workshops in recent months include:
-
-* a series of sessions for research software engineers, held as part of fellowship of the
-  `Software Sustainability Institute <https://software.ac.uk>`_
-* training workshops for contributors to the `Django project <https://djangoproject.com>`_
-* training workshops for contributors to `OSM <https://osm.etsi.org>`_, an open-source project
-  hosted by the `European Telecommunications Standards Institute <https://www.etsi.org>`_
+See :doc:`news-events` for forthcoming and recent events.
 
 Enquiries from open-source software projects for coaching or workshops are welcome.
 
@@ -117,7 +104,7 @@ I'm indebted to many software projects that have solved my problems or otherwise
 I repay that debt where I can by contributing improvements to the documentation of those projects,
 or providing training to contributors.
 
-Some examples: `Django <https://djangoproject.com/>`_, `pytest <https://pytest.org/>`_, `django
-CMS <https://djang-cms.org/>`_, `BeeWare <https://beeware.org/>`_, `Wagtail
-<https://wagtail.org>`_. At the time of writing, I'm working with `Rinohtype
+Some examples: `Python <https://python.org>`_, `Django <https://djangoproject.com/>`_, `pytest
+<https://pytest.org/>`_, `django CMS <https://djang-cms.org/>`_, `BeeWare <https://beeware.org/>`_,
+`Wagtail <https://wagtail.org>`_. At the time of writing, I'm working with `Rinohtype
 <https://www.mos6581.org/rinohtype/master/>`_.
