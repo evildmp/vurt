@@ -89,7 +89,7 @@ Workshops and training
 
 I regularly run training workshops, usually to support open-source software projects.
 
-See :doc:`news-events` for forthcoming and recent events.
+See :doc:`events` for forthcoming and recent events.
 
 Enquiries from open-source software projects for coaching or workshops are welcome.
 
