@@ -134,6 +134,11 @@ but about learning how much you don't need to say at all.
 Find ways to make your stories shorter. Learn what you can leave out. You need them to function like
 sketches that contain a truth in a few simple lines.
 
+..  sidebar::
+
+    I've encountered interviewees who could drop me into a context with just a handful of words. And
+    I've also encountered those who needed to go back as far the dinosaurs to start their story.
+
 Learn how to set a scene with the fewest possible words. A story is diminished by a lengthy
 preamble. And learn how to end them, leaving them open to allow the audience to find their own way
 in - there's no need to follow each thread mercilessly to its end.
@@ -160,7 +165,7 @@ example of:
 
 and no doubt you could think of several others too. When an interviewer asks a question like *Can
 you give me an example of taking initiative?* it's not so that they can tick off a box marked "Has
-taken initiative". It's a prompt, for you to reveal qualities (including intiative), vividly and in
+taken initiative". It's a prompt, for you to reveal qualities (including initiative), vividly and in
 depth and context.
 
 Think of all the episodes that have meant something in your working life. When you set them out as
@@ -172,23 +177,22 @@ When to use a story
 
 The short answer is: often.
 
-In fact, you'll be often invited explicitly to tell a story, for example:
+In fact, you'll be often invited explicitly to tell a story, for example: *Tell me about a time
+when...*.
 
-* Tell me about a time when...
-
-\- that's simple enough. Recognise the invitation and accept it.
+That's simple enough. Recognise the invitation and accept it.
 
 But even when the invitation is not explicit, the interviewer usually wants more than a literal-minded answer to a question. For example, when faced with questions like:
 
-* What do you think are the most important things to get right in...?
-* How do you deal with...?
+* *What do you think are the most important things to get right in...?*
+* *How do you deal with...?*
 
 you must answer in a straightforward way - but you must also recognise (and most people do)
 that the question is not *just* asking you to list the things you consider most important, or to say
 how you deal with such-and-such, it also wants you to say *why* you think or do that.
 
 So you should do that. But then, having *said* your what and your why, consider whether you should
-show something too, by telling a story about it, and the easiest way to slip into that is with
+*show* something too, by telling a story about it, and the easiest way to slip into that is with
 the immortal words "for example".
 
 
@@ -261,4 +265,4 @@ a candidate for a job that deals in logical sequences.
 
 Similarly, narrative skill demonstrates the ability to grasp what's important and relevant in a a partocular case, and what is not and may be safely left aside.
 
-A skillfully-told story demonstrates not only that the candidate understands what's important and should be included, but what's not and can be left aside.
+A skillfully-told story demonstrates not only that the candidate understands what's important and should be included, but what's not, and can be left aside.
