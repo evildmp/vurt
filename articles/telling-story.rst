@@ -17,13 +17,13 @@ valuable - a strength, a depth of experience, an insight, an attitude, character
     Showing is more effective than saying
 
 *Revealing* something is not the same as *saying* something. Anyone can assert that they have a
-certain experience, skill or quality, and an interviewer might find this easy to believe or not. But
+certain experience, skill or quality. An interviewer might find this easy to believe or not. But
 letting the interviewer see it for themselves is another thing altogether: it's more believable, and
 makes a deeper impression that lasts longer.
 
 In an interview situation, one of the most effective ways a candidate can show what the interviewer
 is hoping to see is to use a question as the starting-point for a *story*; a narrative that has a
-start, end and *meaning*.
+start, an end and *meaning*.
 
 
 Telling a story
@@ -80,10 +80,11 @@ shows:
 And it shows how these the candidate relates these things to each other (*because*, *as a result*).
 
 All of the above are valuable elements in a story, which is not to say that every story need contain
-them all, or in that order. This is not a formula for telling a story.
+them all, or in that order.
 
-Still, if you're less familiar with interviews and what works in them, thinking about these elements
-helps provide a useful frame for thinking about your skills and qualities and what you've done.
+*This is not a formula for telling a story.* Still, if you're less familiar with interviews and what
+works in them, these elements helps provide a useful frame. It's an effective way to think and talk
+about your skills and qualities and what you've done.
 
 
 What are your stories?
@@ -95,7 +96,7 @@ strengths and qualities are. They will anxiously strive to convey unimportant ex
 neglect ones that are at the heart of the matter.
 
 Stories help avoid this, because by their nature, they work to draw out what's really important.
-Language alone can help to perform this function. Think about how you might complete or use some of
+Language alone can help to perform this function. Consider how you might complete or use some of
 these phrases when thinking about an episode from your past:
 
 * *I noticed...*, *I discovered...* (observation)
@@ -116,9 +117,8 @@ Rehearse your stories
 ---------------------
 
 To practise telling your stories might seem an odd suggestion, but the fact is that *people who are
-good at being interviewed are good because they have become good at telling their stories*. They're
-practised it. Consciously or not, they have refined their story-telling. They have learned what
-works.
+good at being interviewed are good because they have become good at telling their stories*. They are
+practised. Consciously or not, they have refined their story-telling. They have learned what works.
 
 You need to do the same. I suggest to take the trouble to write them some of them down, and to
 rehearse them, in your head and in conversation. Get used to making yourself the protagonist of your
@@ -128,20 +128,17 @@ stories, and claiming responsibility for your actions.
 Learn what doesn't need to be said
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+I've encountered interviewees who could drop me into a context with just a handful of words. And
+I've also encountered those who needed to go back as far the dinosaurs to start their story.
+
 Learning how to tell a story well is not about remembering all the things that need to be included,
 but about learning how much you don't need to say at all.
 
 Find ways to make your stories shorter. Learn what you can leave out. You need them to function like
 sketches that contain a truth in a few simple lines.
 
-..  sidebar::
-
-    I've encountered interviewees who could drop me into a context with just a handful of words. And
-    I've also encountered those who needed to go back as far the dinosaurs to start their story.
-
 Learn how to set a scene with the fewest possible words. A story is diminished by a lengthy
-preamble. And learn how to end them, leaving them open to allow the audience to find their own way
-in - there's no need to follow each thread mercilessly to its end.
+preamble. And learn how to end them, leaving them open to allow the audience to understand it for themselves - there's no need to follow each thread mercilessly to its end.
 
 (In the example of :ref:`the story of the workshop above <workshop-story>`, not every detail is
 spelled out. For example, it doesn't say what the team leader did with the suggestion. It's left up
@@ -182,18 +179,26 @@ when...*.
 
 That's simple enough. Recognise the invitation and accept it.
 
-But even when the invitation is not explicit, the interviewer usually wants more than a literal-minded answer to a question. For example, when faced with questions like:
+But even when the invitation is not explicit, the interviewer usually wants more than a literal-minded answer to a question. You might face questions like:
 
 * *What do you think are the most important things to get right in...?*
 * *How do you deal with...?*
 
-you must answer in a straightforward way - but you must also recognise (and most people do)
-that the question is not *just* asking you to list the things you consider most important, or to say
-how you deal with such-and-such, it also wants you to say *why* you think or do that.
+..  sidebar::
 
-So you should do that. But then, having *said* your what and your why, consider whether you should
-*show* something too, by telling a story about it, and the easiest way to slip into that is with
-the immortal words "for example".
+    Say *what*, *how*, *why*
+
+You must recognise (and most people do) that the question is not *just* asking you to list
+*what* things you consider most important, or to say *how* you deal with such-and-such, it also
+wants you to say *why* you think or do that.
+
+..  sidebar::
+
+    But don't just say things: show them
+
+Say what you need to say. But having done that, consider whether you should *show* something too, by
+telling a story about it to bring it alive, and the easiest way to slip into that is with the
+immortal words "for example".
 
 
 ... and when not to
