@@ -26,7 +26,7 @@ is hoping to see is to use a question as the starting-point for a *story*; a nar
 start, an end and *meaning*.
 
 
-Telling a story
+A story
 ----------------
 
 Let's say that you're asked: *Can you describe an example of being part of a positive change at
@@ -160,10 +160,11 @@ example of:
 * identifying and solving a problem
 * a learning experience
 
-and no doubt you could think of several others too. When an interviewer asks a question like *Can
-you give me an example of taking initiative?* it's not so that they can tick off a box marked "Has
-taken initiative". It's a prompt, for you to reveal qualities (including initiative), vividly and in
-depth and context.
+No doubt you could think of several others too.
+
+When an interviewer asks a question like *Can you give me an example of taking initiative?* it's not
+so that they can tick off a box marked "Has taken initiative". It's a *prompt*, for you to reveal
+qualities (including initiative), vividly and in depth and context.
 
 Think of all the episodes that have meant something in your working life. When you set them out as
 stories, what do they mean - what can they say about you?
@@ -206,8 +207,8 @@ immortal words "for example".
 
 Use your judgement.
 
-It can be a bit odd if an interviewee insists on weaving a story into *every
-single answer*. It will be exhausting for you.
+It would be a bit odd if an interviewee insisted on weaving a story into *every
+single answer*. It would be exhausting for you.
 
 
 The value of a narrative
