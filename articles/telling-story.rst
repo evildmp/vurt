@@ -1,15 +1,8 @@
 How to tell a story in an interview
 ===================================
 
-At the start of an interview with a candidate, I often remind that that though I'll be asking them
-questions, *this is not an interrogation*, it's a two-way conversation - and they are inteviewing
-us too.
-
-Still, this is largely *our* interview of *them*, and the agenda is mostly ours. I'll be the one
-asking most of the questions. (If it's a written interview, we'll be asking *all* of the questions.)
-
-The challenge for the interviewee is to make the most of the opportunity presented in the questions.
-Each question in an interview should be seen as an invitation to the candidate to reveal something
+The challenge for an interviewee is to make the most of the opportunies presented to them. Each
+question in an interview should be seen as an invitation to the candidate to reveal something
 valuable - a strength, a depth of experience, an insight, an attitude, character.
 
 ..  sidebar::
@@ -221,8 +214,8 @@ is a kind of sequential logic, that binds up other reasoning (cause and effect, 
 into itself and makes them come alive.
 
 
-Beware of the list
-~~~~~~~~~~~~~~~~~~
+Escape from the tyranny of the list
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Lists are useful things, and they fit well in the patterns of modern working environments. We're
 encouraged to use them, not least by the software we use to manage information and processes. And
@@ -239,14 +232,21 @@ It's very hard to find meaning or identify importance in a list. Everything appe
 value. Nothing stands out. In the anxiety to present a complete picture, the candidate obscures the
 real picture.
 
-
-Narrative as a way out
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Narrative is an effective way out of this trap. Narrative creates natural bounds, and positively
-invites the narrator to find them. No-one is good at remembering lists, but stories are memorable
-and interesting. As a candidate, a narrative allows you to present multiple topics in a compact,
+Narrative is an effective way out of this trap. Narrative creates *natural bounds*, and positively
+invites the narrator to find them. No-one is good at remembering lists, but *stories are memorable
+and interesting*. As a candidate, a narrative allows you to present multiple topics in a compact,
 joined-up way.
+
+
+Narratives come to an end
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The interviewee who has not enough to say is an astonishingly rare creature. The one who doesn't
+know when to stop is not. Most interviewees talk too much, because it's difficult to know when to
+stop, and difficult actually to stop talking.
+
+A story, on the other hand, comes to an end all by itself. Telling a story makes it easier to stop
+talking, safe in the knowledge that something complete and meaningful has been said.
 
 
 Narrative as initiative
