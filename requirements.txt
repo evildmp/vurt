@@ -2,3 +2,5 @@ furo
 sphinx
 sphinx-design
 sphinx-autobuild
+pyenchant
+sphinxcontrib-spelling
