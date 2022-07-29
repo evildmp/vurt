@@ -10,7 +10,7 @@ BrachioGraph
 
 `BrachioGraph <https://brachiograph.art>`_ is the world's simplest, cheapest drawing robot.
 
-With a Rasberry Pi, three very cheap servo motors and some household materials, you can build a
+With a Raspberry Pi, three very cheap servo motors and some household materials, you can build a
 working pen-plotter in an hour or so. It turns out to be an excellent thing to do with children on
 a rainy weekend.
 

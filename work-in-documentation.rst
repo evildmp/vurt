@@ -14,7 +14,7 @@ software product documentation.
 What all of the above have in common is that they are **written materials that support a
 practitioner in a domain of skilled practice**.
 
-This definition places the user of documentation - the practioner of a craft - at the centre of its
+This definition places the user of documentation - the practitioner of a craft - at the centre of its
 concerns.
 
 
@@ -63,7 +63,7 @@ intrinsic to documentation itself.
 
 Documentation extends across its subject matter, and though time. In the former case, the key to
 quality is structure - the architecture of the content itself; in the latter, its management of the
-documentation lifecycle.
+documentation life-cycle.
 
 Quality of documentation at scale doesn't simply mean dealing with more of it. Scale adds a new
 dimension to the challenge. Good practice must become something that belongs to the organisation

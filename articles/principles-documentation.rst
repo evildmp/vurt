@@ -7,7 +7,7 @@ Three general principles
 **The function of documentation is to serve the practitioner of a craft.**
 
 A craft is a domain of *skill*. Documentation exists to guide someone who needs to acquire and apply
-a set of skills. Documentation is succesful to the extent that it addresses their needs.
+a set of skills. Documentation is successful to the extent that it addresses their needs.
 
 A craft or domain of skill can be *narrow*, defined by the use of a product or tool, or *wide*,
 defined by a discipline or profession. (Examples of a craft: using a programming language,
@@ -23,9 +23,9 @@ The `Diátaxis documentation framework <http://diataxis.fr/>`_ is based on an an
 across two dimensions: theory/practice and acquisition/application, and uses this to define an
 architectural map of distinct documentation types that stand in relation to each other.
 
-**Any piece of documentation belongs in a single correct place within the whole.**
+**Any given piece of documentation belongs in a single correct place within the whole.**
 
-Given any piece of documentation, it should be possible to determine its appropriate place within
+For any piece of documentation, it should be possible to determine its appropriate place within
 the structure and its relation to other documentation content. It should be possible to do this with
 confidence, using precisely the same logical principles that determine documentation architecture.
 
@@ -50,9 +50,9 @@ Product documentation is not merely a collection of written material related to 
 be *purposeful, intentional and developed according to a vision* that accords with a vision of the
 product’s own purpose and intent.
 
-**Product documentation has a lifecycle.**
+**Product documentation has a life-cycle.**
 
-For products that evolve - such as software products - *documentation has a lifecycle*. The lifecycle
+For products that evolve - such as software products - *documentation has a life-cycle*. The life-cycle
 of documentation includes its creation, review, maintenance and expurgation.
 
 Documentation that is created, but not reviewed, updated or deleted, is worse than useless.
@@ -82,7 +82,7 @@ to be improved.)
 
 **The time to start is now.**
 
-It is never too early in the lifecycle of a product to start creating its documentation. When you
+It is never too early in the life-cycle of a product to start creating its documentation. When you
 have something that can be documented, start writing. When you have something written, publish it.
 
 (It’s tempting to wait for the right moment, for when you or something else are “ready”. This is part

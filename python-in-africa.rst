@@ -45,14 +45,14 @@ from Accra.
         ..  figure:: /images/jessica.jpg
             :alt:
 
-            Jessica Upani - Nambia
+            Jessica Upani - Namibia
 
     .. grid-item::
 
         ..  figure:: /images/humphrey.jpg
             :alt:
 
-            Humphrey Butao - Zimbabwe
+            Humphrey Butau - Zimbabwe
 
     .. grid-item::
 

@@ -39,7 +39,7 @@ I owe a great deal to open-source software. Or more precisely, to open-source co
 people in them.
 
 I've made various contributions to software projects of one kind or another, including `Django
-<https://djangoproject.com>`_ (core developer since 2013, Vice Pesident of the DSF 2016-2019),
+<https://djangoproject.com>`_ (core developer since 2013, Vice President of the DSF 2016-2019),
 `django CMS <https://django-cms.org>`_ (core developer since 2011), `pytest <https://pytest.org>`_
 - and various others in the Python ecosystem.
 
@@ -65,5 +65,6 @@ If you use Twitter, I am `@EvilDMP <https://twitter.com/EvilDMP>`_.
     work-in-documentation
     my-projects
     python-in-africa
+    articles/index
     events
     colophon

@@ -1,7 +1,7 @@
-How to tell a story in an interview
+How to use stories in interviews
 ===================================
 
-The challenge for an interviewee is to make the most of the opportunies presented to them. Each
+The challenge for an interviewee is to make the most of the opportunities presented to them. Each
 question in an interview should be seen as an invitation to the candidate to reveal something
 valuable - a strength, a depth of experience, an insight, an attitude, character.
 
@@ -269,6 +269,6 @@ documentation.
 The inability to construct a meaningful narrative out of a series of events is a bad sign in a
 a candidate for a job that deals in logical sequences.
 
-Similarly, narrative skill demonstrates the ability to grasp what's important and relevant in a a partocular case, and what is not and may be safely left aside.
+Similarly, narrative skill demonstrates the ability to grasp what's important and relevant in a a particular case, and what is not and may be safely left aside.
 
-A skillfully-told story demonstrates not only that the candidate understands what's important and should be included, but what's not, and can be left aside.
+A skilfully-told story demonstrates not only that the candidate understands what's important and should be included, but what's not, and can be left aside.
