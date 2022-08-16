@@ -113,7 +113,7 @@ To practise telling your stories might seem an odd suggestion, but the fact is t
 good at being interviewed are good because they have become good at telling their stories*. They are
 practised. Consciously or not, they have refined their story-telling. They have learned what works.
 
-You need to do the same. I suggest to take the trouble to write them some of them down, and to
+You need to do the same. I suggest to take the trouble to write some of them down, and to
 rehearse them, in your head and in conversation. Get used to making yourself the protagonist of your
 stories, and claiming responsibility for your actions.
 
