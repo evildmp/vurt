@@ -55,7 +55,7 @@ Contact me
 Please note that I get a considerable quantity of email related to Diátaxis, and while I appreciate
 all the interest and do my best to reply, I can't promise to respond to every message.
 
-If you use Twitter, I am `@EvilDMP <https://twitter.com/EvilDMP>`_.
+I am `@EvilDMP@mastodon.online <https://mastodon.online/@EvilDMP>`_.
 
 ..  toctree::
     :maxdepth: 2
