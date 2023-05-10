@@ -6,26 +6,36 @@ Events
 Forthcoming
 -----------
 
-* `a series of workshops for the Python Software Foundation
-  <https://discuss.python.org/t/announcing-the-diataxis-documentation-workshop/17075>`_, August
-  2022
-
-* `PyCon UK <https://2022.djangocon.eu/home/>`_, Cardiff, September 2022; workshop: *Introduction to
-  Diátaxis*, talk: *How to wag a dog*
-
-* `DjangoCon Europe <https://2022.djangocon.eu/home/>`_, Porto, October 2022; workshop:
-  *Introduction to Diátaxis*, talk: *The programmer's imagination*
-
-* `PyCon Portugal <https://2022.pycon.pt/>`_, Porto, October 2022
-
+* `DjangoCon Europe, Edinburgh, May 2023 <https://2023.djangocon.eu>`_, talk: *The programmer's imagination*; workshop *Practical tools for documentation at scale*
 
 Recent
 ------
 
+2023
+~~~~
+
+* `Documentation theory and practices, a two-day workshop for FAIRmat
+  <https://www.fairmat-nfdi.eu/lisenews/fairmat_documentation_workshop/73>`_, hosted at Humboldt University, Berlin, May
+* `PyCon Namibia <https://na.pycon.org>`_, Windhoek, workshop: *Introduction to
+  Diátaxis*, talk: *Your future in software*, February
+
+
+2022
+~~~~
+
+* `Ubuntu Summit <https://events.canonical.com/event/2/>`_, Prague, workshop: *Introduction to
+  Diátaxis*, workshop: *Build a BrachioGraph*
+* `PyCon Portugal <https://2022.pycon.pt/>`_, Porto, October; keynote address
+* `DjangoCon Europe <https://2022.djangocon.eu/home/>`_, Porto, October; workshop:
+  *Introduction to Diátaxis*, talk: *The programmer's imagination*
+* `PyCon UK <https://2022.djangocon.eu/home/>`_, Cardiff, September; workshop: *Introduction to
+  Diátaxis*, talk: *How to wag a dog*
+* `a series of workshops for the Python Software Foundation
+  <https://discuss.python.org/t/announcing-the-diataxis-documentation-workshop/17075>`_, August
 * training workshops for contributors to `OSM <https://osm.etsi.org>`_, an open-source
   project hosted by the `European Telecommunications Standards Institute
-  <https://www.etsi.org>`_, June 2022
+  <https://www.etsi.org>`_, June
 * a series of sessions for research software engineers, held as part of fellowship of the
-  `Software Sustainability Institute <https://software.ac.uk>`_, March 2022
-* training workshops for contributors to the `Django project <https://djangoproject.com>`_, June 2021
+  `Software Sustainability Institute <https://software.ac.uk>`_, March
+* training workshops for contributors to the `Django project <https://djangoproject.com>`_, June
 
