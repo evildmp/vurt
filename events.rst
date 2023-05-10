@@ -14,8 +14,9 @@ Recent
 2023
 ~~~~
 
-* `Documentation theory and practices, a two-day workshop for FAIRmat
-  <https://www.fairmat-nfdi.eu/lisenews/fairmat_documentation_workshop/73>`_, hosted at Humboldt University, Berlin, May
+* `A two-day workshop for FAIRmat
+  <https://www.fairmat-nfdi.eu/lisenews/fairmat_documentation_workshop/73>`_ on
+  Documentation theory and practices, hosted at Humboldt University, Berlin, May
 * `PyCon Namibia <https://na.pycon.org>`_, Windhoek, workshop: *Introduction to
   Diátaxis*, talk: *Your future in software*, February
 
