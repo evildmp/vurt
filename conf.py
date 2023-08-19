@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 html_title = full_title = project = 'Daniele Procida'
-copyright = '2022, Daniele Procida'
+copyright = 'Daniele Procida'
 author = 'Daniele Procida'
 
 
