@@ -25,4 +25,4 @@ time for the benefit of the one who hopes to be hired.
     :titlesonly:
 
     using-stories
-    becoming-a-contributor
+    Find your way into open-source software <becoming-a-contributor>
