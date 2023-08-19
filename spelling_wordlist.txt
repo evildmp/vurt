@@ -12,10 +12,13 @@ Geraint
 hoc
 Kanae
 Kandoza
+linters
 Makarudze
+mentorship
 Mhangami
 Muheue
 Ngazetungue
+nginx
 Nginx
 Pythonistas
 reStructuredText
