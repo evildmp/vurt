@@ -33,10 +33,10 @@ software *product*. It could equally well be a community endeavour such as
 your local PyCon or other volunteer-run conference, or an educational project
 such as `Django Girls <https://djangogirls.org/en/>`_.
 
-Valuable contributions are not just code. Documentation is probably a better
-place to start for many contributors, but in general, open-source projects
-community projects run on people's volunteered skill and time, and any way
-you can put those to use is likely to be welcomed.
+**Valuable contributions are not just code.** Documentation is probably a
+better place to start than code for many contributors, but in general,
+open-source projects community projects run on people's volunteered skill
+and time, and any way you can put those to use is likely to be welcomed.
 
 
 What do *you* care about?
@@ -65,8 +65,8 @@ about something, then even if it is already excellent, you can almost
 certainly think of something that could be improved, and how it could be
 improved.
 
-If you can't think of anything, then you probably aren't deeply invested 
-enough in it.
+**If you can't think of anything, then you probably aren't deeply invested
+enough in it.**
 
 
 What help can *you* actually provide?
@@ -86,7 +86,7 @@ things will be *small* and *modest*. For you as a contributor, a contribution
 is successful if, after having made it, you're keen to do more.
 
 By far the best way to identify a need that you can could fulfil by
-contributing is to see the need for yourself. That means you will have a
+contributing is to feel the need for yourself. That means you will have a
 direct connection to it, and a sense of why it matters.
 
 You might also discover the project's needs by reading through its issue
@@ -118,9 +118,9 @@ be contribution standards for patches that you need to meet.
 
 If all your energy goes into making the improvement you want to contribute,
 you will have nothing left over to do the other work required to get it
-successfully accepted. So choose the simplest possible thing for your first
+successfully accepted. So **choose the simplest possible thing for your first
 attempts, that seems to be well below the limits of the help you think you can
-provide.
+provide.**
 
 
 Will your contribution be supported?
@@ -180,4 +180,3 @@ relationships*.
 How would you become involved in a local community, or one at work? You would
 courteously introduce yourself, express interest in becoming involved and then
 spend time building trust - *and it takes time*.
-
