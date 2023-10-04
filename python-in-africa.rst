@@ -177,14 +177,15 @@ from 26 countries, for a five-day event.
         ..  figure:: /images/pyconafrica3.jpg
             :alt:
 
-Next
-----
+After COVID
+-----------
 
 COVID-19 took a lot of the wind out of the sails of African Python events. PyCon Africa 2020 was
-held online, and we decided to pause the event for 2021 and 2022. The first DjangoCon Africa was
-due to have taken place in October 2020, but that too has had to wait for a more appropriate moment.
+held online, and then the event was paused. 
 
-But, `PyCon Kenya 2022 <https://www.pyconke.org>`_ in May was the first African Python event since
-the pandemic struck, and `PyCon Ghana 2022 <https://gh.pycon.org>`_ is scheduled for October.
+National events have restarted; `PyCon Kenya 2022 <https://www.pyconke.org>`_ in May that year was the first African Python event since
+the pandemic struck, and `PyCon Ghana 2022 <https://gh.pycon.org>`_ took place in October, and others followed.
+
+The first African DjangoCon should have taken place in October 2020, but has had to wait until 2023: `DjangoCon Africa <https://2023.djangocon.africa>`_, Zanzibar.
 
 And more will follow!
