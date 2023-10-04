@@ -3,6 +3,7 @@ Alorwu
 Bello
 Berhane
 Butau
+café
 Canonet
 Diátaxis
 Divio
@@ -23,6 +24,7 @@ Nginx
 Pythonistas
 reStructuredText
 scalable
+Schiphol
 Shituna
 softwarise
 transformative
