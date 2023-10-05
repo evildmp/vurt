@@ -81,7 +81,11 @@ The investment of courage
 
 What's remarkable is how effective events like PyCons are at establishing safe spaces. 
 
-They're not safe merely because they are spaces where "harassment is not tolerated". They are safe because they are positively warm and welcoming, and because enough moral courage has been invested in them that they influence the people who join them.
+..  sidebar::
+
+    A code of conduct is not enough; creating safety means actively taking care, persistently and seriously. 
+
+PyCons are not safe merely because they are spaces where "harassment is not tolerated". They are safe because they are positively warm and welcoming, and because enough moral courage has been invested in them that they influence the people who join them.
 
 Courage goes into creating them, and in turn they give courage to people who need to know that others are on their side. And then they continue to radiate those values into their surrounding context.
 
