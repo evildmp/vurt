@@ -25,7 +25,7 @@ It's a fair concern. In almost all African countries, the law is not friendly to
 No exceptions
 ~~~~~~~~~~~~~
 
-A Python conference or a DjangoCon must be a safe space for its attendees, and pay special attention to the well-being of attendees who might otherwise have reason to think twice about what, who and where is safe for them - whether that's because of their sexuality (or gender, or gender expression, or other characteristics). 
+A Python conference or a DjangoCon must be a safe space for its attendees, and pay special attention to the well-being of attendees who might otherwise have reason to think twice about *what*, *who* and *where* is safe for them - whether that's because of their sexuality (or gender, or gender expression, or other characteristics). 
 
 *No event, no matter where it's held, can be an exception to this.*  
 
@@ -55,7 +55,9 @@ Where is "safe"?
 
 I have yet to hear concerns raised about events in western Europe or the USA, that they might be considered less safe for certain groups of people. It's simply not a question that really gets asked. 
 
-How "safe" is it to be black in the United States? Arguably the USA became a country so materially and visibly dangerous to black people that it triggered a global Black Lives Matter movement. How unpleasant should the experience of Muslim visitors arriving in the USA for an event become before there's an expectation of a warning about it? At what point might the anti-trans laws and hardening rhetoric in several states of the USA prompt public questions about whether Python events should be funded there? 
+How "safe" is it to be black in the United States? Arguably the USA became a country so materially and visibly dangerous to black people that it triggered a global Black Lives Matter movement. 
+
+How unpleasant should the experience of Muslim visitors arriving in the USA for an event become before there's an expectation of a warning about it? At what point might the anti-trans laws and hardening rhetoric in several states of the USA prompt public questions about whether Python events should be funded there? 
 
 It would be quite a surprise if the organisers of a Python event in the west were to issue safety guidance to black or African attendees. But one doesn't need to look far to find examples of black community members who have encountered racism while visiting Python events - in countries that no-one would raise concerns about supporting.
 

@@ -1,12 +1,13 @@
 Articles
 ================================
 
-On documentation
-----------------
+Various topics
+--------------
 
 ..  toctree::
     :titlesonly:
 
+    Attendee safety at African Python community events <on-safety>
     principles-documentation
 
 
