@@ -3,7 +3,7 @@
 Daniele at DjangoCon US 2023
 ============================
 
-I'm on Mastodon: `@EvilDMP@mastodon.online <https://mastodon.online/@EvilDMP>`_.
+I'm on Mastodon: `@EvilDMP@mastodon.online <https://mastodon.online/@EvilDMP>`_. You can also find me on the conference Slack group.
 
 Africa
 ------
