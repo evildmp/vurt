@@ -3,18 +3,14 @@ Events
 
 ..  rubric:: Conference talks, workshops, etc.
 
-Forthcoming
------------
-
-* `DjangoCon Africa <https://2023.djangocon.africa>`_, Zanzibar, November; talk: *All that jazz*   
-* `DjangoCon US <https://2023.djangocon.us>`_, Durham NC, October; talk: *The programmer's imagination*   
-
 Recent
 ------
 
 2023
 ~~~~
 
+* `DjangoCon Africa <https://2023.djangocon.africa>`_, Zanzibar, November; talk: *All that jazz*   
+* `DjangoCon US <https://2023.djangocon.us>`_, Durham NC, October; talk: *The programmer's imagination*   
 * `PyCon UK <https://pyconuk.org>`__, Cardiff, September; talk: *The programmer's imagination*; workshop: *Practical tools for documentation at scale*   
 * `EuroPython <https://ep2023.europython.eu>`_, Prague, July; talk: *Messages from Prague*, workshop: *Practical tools for documentation at scale*   
 * `DjangoCon Europe <https://2023.djangocon.eu>`_, Edinburgh, May; talk: *The programmer's imagination*; workshop: *Practical tools for documentation at scale*
