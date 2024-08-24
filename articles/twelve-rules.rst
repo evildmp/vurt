@@ -160,7 +160,9 @@ Far too often a candidate wastes time trying, in effect, to draw the whole donke
 
 If you like, point out that you're only going to show a part of a much bigger whole that you are also aware of.
 
-Let's say your interviewer says: "Tell me about your DevOps experience." You might be tempted to take a deep breath and launch into a long list of different tools, resources, methods, practices, and roles, hoping that you don't forget any of them. You would only be able to present a thin and colourless picture of it all. 
+Let's say your interviewer says: "Tell me about your DevOps experience." 
+
+You might be tempted to take a deep breath and launch into a long list of different tools, resources, methods, practices, and roles, hoping that you don't forget any of them. You would only be able to present a thin and colourless picture of it all. 
 
 Or you could take a more confident approach:
 
