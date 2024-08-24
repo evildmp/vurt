@@ -239,9 +239,9 @@ Your interviewers need to see your motivations and values. As usual, you can sho
 
 Unfortunately, many of us have grown up in social, educational or work cultures that disvalue *pride*. We are not encouraged to be proud. Sometimes, pride is treated like a kind of vice, aligned with boastfulness or even arrogance, an unpleasant trait - the opposite of humility. 
 
-This is a misunderstanding of the meaning of pride. To be proud about something is to hold and share a value, and stand up alongside it, willing to be measured. Being proud is to be honest, vulnerable and courageous, and it's especially so to be proud about what you have done or how you are - because you're taking the risk of having it denied, or dismissed, or mocked. *Real pride is humble.*
+This is not what pride is. To be proud is to hold and share a value, and stand up alongside it, willing to be measured. To be proud is to be honest, vulnerable and courageous, and it's especially when you're proud about what you have done or how you are - because you're taking the risk of having it denied, or dismissed, or mocked.
 
-In fact, the the courage it takes to be vulnerable is the reason for another mistaken attitude to pride. It can be easier and safer to maintain an ironic distance from values and achievements than to embrace them. So, sometimes people don't allow themselves to be proud - they behave as if they were too cool to be proud, even if what is happening is actually more complicated than that.
+The courage it takes to be vulnerable is the behind another mistaken attitude to pride. It's easier and safer to maintain an ironic distance from values and achievements than to embrace them. So, sometimes people don't allow themselves to be proud - they behave as if they were too cool to be proud, even if what is happening is actually more complicated than that.
 
 Don't fall into either of these traps when you think about pride. Own your pride. Allow yourself to be proud of your achievements and values. **Get used to expressing pride in them.** Find stories, and concrete, personal examples that demonstrate them.
 
@@ -251,13 +251,13 @@ Invitations
 
 Be alert for invitations to express pride. A question about (for example) your academic achievements is partly about the plain facts of your academic record, but it's also about how you relate to it. Your pride about a particular academic achievement says a lot to an interviewer.
 
-If the invitation is explicit ("What are you proud about in your studies?") you really must answer answer that question. Sometimes it's not explicit ("How did you do in your studies?") but even then you need to see this as an invitation and opportunity to share what what you're proud about. 
+If the invitation is explicit ("What are you proud of in your studies?") you really must answer answer that question. Sometimes it's not explicit ("How did you do in your studies?") but even then you need to see this as an invitation and opportunity to share what what you're proud about. 
 
 
 Useless self-deprecation
 ------------------------------
 
-Consider this: an interviewer refers to a project you were involved in and says: "That's impressive, it looks like it took some fairly sophisticated Python skills to deliver successfully". Perhaps you immediately think of all the mistakes, dead-ends and bungled implementations that you came up with along the way, and the numerous people who helped dig you out of your own holes. But **do not reply**: "Oh no, actually I'm really not ..." and try to wave away the admiration.
+An interviewer refers to a project you were involved in and says: "That's impressive, it looks like it took some fairly sophisticated Python skills to deliver successfully". **Do not reply**: "Oh no, actually I'm really not ..." and try to wave away the admiration (even if your first thought is of all the mistakes, dead-ends and bungled implementations that you came up with along the way, and the numerous people who helped dig you out of your own holes).
 
 Self-deprecation is not humility. It's false and distancing, a deflection from scrutiny of yourself. Candidates sometimes say self-deprecating things because they're rattled by an interviewer's praise or admiration. Perhaps they worry that they're accepting something they don't really deserve, but *whatever* the reason, it doesn't make them look more honest and humble. It makes them look evasive and dubious, as if their other apparent praiseworthy attributes might also not be what they seem.
 
@@ -265,7 +265,7 @@ Self-deprecation is not humility. It's false and distancing, a deflection from s
 Embrace pride and praise
 -------------------------
 
-Instead, embrace pride in what you have done, and other people's praise of your achievements. 
+Embrace pride in what you have done, and other people's praise of your achievements. 
 
 Acknowledge both the pride and praise: "Thank you". Allow yourself to own them: "To be honest, it means a lot to me that other people value that." Or: "Yes, I am really proud of the results". Then you can add the other things you want to say: "... and I am proud of the fact that I delivered them despite not being an especially strong Python programmer, and I had to learn a lot while working on it".
 
