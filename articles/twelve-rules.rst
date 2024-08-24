@@ -441,7 +441,7 @@ The same question, twice
 
 Candidates are sometimes puzzled or even a bit irritated to be asked the same question multiple times: in the original application, in a written interview, or then by subsequent interviewers. 
 
-Don't mistake being asked *about the same topic* for being asked *the same question*. Different interviewers looking for different things and probing from different perspectives might very well want to discuss the same topic, but that is not asking the same question.
+Don't mistake being asked *about the same topic* for being asked *the same question*. Different interviewers looking for different things and probing from different perspectives might very well want to *discuss the same topic* - but that is not *asking the same question*.
 
 There might be a good reason why you are being asked exactly the same question more than once. Or perhaps it's a sign of a poorly-designed or executed interviewing process. It doesn't matter: even if it is, you *still* need to answer it, as patiently and willingly the third time as the first.
 
