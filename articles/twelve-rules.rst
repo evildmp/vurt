@@ -176,7 +176,7 @@ By the time the candidate has finished their discussion of DevOps practices, the
 5: Use perspectives
 =====================================
 
-Deliberately placing limits on what you discuss is always effevtive. Another way to do this is to pay attention to the *scope* of your own approach - **choose and use perspectives consciously and deliberately.** 
+Deliberately placing limits on what you discuss is always effective. Another way to do this is to pay attention to the *scope* of your own approach - **choose and use perspectives consciously and deliberately.** 
 
 Suppose you're invited to say what you think is significant about open-source software. Topics like this are risky, because they are so open-ended - one could write a book on the subject. They can lead you to respond in unfocused, unmemorable ways. You can avoid this risk by opting to consider the question *from some particular perspective*, closing down the open-endedness. 
 
