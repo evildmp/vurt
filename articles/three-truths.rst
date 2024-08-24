@@ -84,9 +84,9 @@ Antagonistic mindsets
 
 Understanding the relationship between candidate and employer frames the entire process and sets the candidate's thinking. A staggering number of candidates enter the hiring process with an antagonistic mindset, and they all do badly as a result. 
 
-At its mildest, the candidate sees the employer's process as an *obstacle* to success, that might be overcome with some cunning shortcuts - "tips", "hacks", "secrets", if only they play their cards right. These candidates come across as weak and lacking in self-belief, opting for expediency over integrity - like cheaters in an exam. They're the ones that reach for tools like ChatGPT for an advantage.
+At its mildest, the candidate sees the employer's process as an *obstacle* to success, that might be overcome with some cunning shortcuts - "tips", "hacks", "secrets" - if only they play their cards right. These candidates come across as weak and lacking in self-belief. They may be tempted to opt for expediency over integrity, like cheaters in an exam. They're the ones that might reach for tools like ChatGPT for an advantage.
 
-At its worst, the employer becomes an *enemy* to be defeated - a hostile entity that will delight in the candidate's failure. These candidates come across as angry, resentful and self-defeating, determined to find ways to spite the rules of the game while still hoping to win.
+At its worst, the employer becomes an *enemy* to be defeated - a hostile entity that will delight in the candidate's failure. These candidates come across as angry, resentful and self-defeating, determined to find ways to spite the rules of the game while still wanting to win.
 
 
 Alignment of interests
@@ -98,19 +98,19 @@ Each candidate represents an investment of time and money by the employer. When 
 
 When you do badly, their investment is at risk. The moment that they close your application, they have lost it.
 
-The interests of the candidate and the employer are *aligned*, not opposed. The last thing the employer wants to do is place unnecessary obstacles in the path of the suitable candidate.
+The interests of the candidate and the employer are *aligned*, not opposed. The last thing the employer wants to do is place unnecessary obstacles in the path of the suitable candidate, or encourage the unsuitable one.
 
 
 The employer's special desire
 -----------------------------
 
-Employers have a special desire to see a particular category of candidate do well. 
+There is a particular category of candidate that employers are concerned about. 
 
-If a candidate is unsuitable, then whether they are good at the game or not, they are not likely to do well in the application process. 
+If a candidate is *unsuitable*, then whether they are good at the game or not, they are not likely to do well in the application process. 
 
-If they would be excellent for the job, and have good job application skills, they're likely to do well. 
+If they would be excellent for the job, *and* have good job application skills, they're likely to do well. 
 
-But if they would be excellent for the job, and have poor job application skills, they are not likely to do well - and unlike the others, *this outcome is bad for both the employer and the candidate*.
+But if they would be excellent for the job, and have *poor* job application skills, they are not likely to do well - and unlike the other outcomes, *this outcome is bad for both the employer and the candidate*.
 
 Many aspects of a hiring process are intended specifically to help this category of applicant.
 
@@ -118,9 +118,9 @@ Many aspects of a hiring process are intended specifically to help this category
 How we feel about it on our side of the table
 ---------------------------------------------
 
-When I speak of an organisation's wants, desires and intentions above, that's metaphorical. I don't think that organisations really want or desire, but it's a way of highlighting the interests at work, that have real effects. 
+When I speak of an organisation's wants, desires and intentions above, that's metaphorical. I don't really think that organisations want or desire, but it's a way of highlighting the interests at work, that have real effects in an organisation's behaviour.    
 
-Unlike the organisations they work for though, individuals can have feelings as well as interests.
+Unlike the organisations they work for though, *individuals* can have feelings as well as interests.
 
 When I open a candidate's first application, I have my fingers crossed for them; all I want to see are things that will allow me to move them forward. Before an interview, an interviewer send up a silent prayer: *let this be the one*. It's a thrill to be able to interview or advance a good candidate. At Canonical, when I inform colleagues on the interviewing team that a candidate has moved to the next stage, they are delighted. By the time a candidate has cleared the final hurdle, there is jubilation. We have won the hiring game, together.
 
