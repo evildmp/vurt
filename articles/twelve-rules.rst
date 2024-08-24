@@ -174,7 +174,7 @@ By the time the candidate has finished their discussion of DevOps practices, the
 5: Use perspectives
 =====================================
 
-Another way to be more effective by deliberately placing limits on what you discuss is to limit the *scope* of what your own approach - **choose and use perspectives consciously and deliberately.** 
+Deliberately placing limits on what you discuss is always effevtive. Another way to do this is to pay attention to the *scope* of your own approach - **choose and use perspectives consciously and deliberately.** 
 
 Suppose you're invited to say what you think is significant about open-source software. Topics like this are risky, because they are so open-ended - one could write a book on the subject. They can lead you to respond in unfocused, unmemorable ways. You can avoid this risk by opting to consider the question *from some particular perspective*, closing down the open-endedness. 
 
@@ -239,9 +239,9 @@ Your interviewers need to see your motivations and values. As usual, you can sho
 
 Unfortunately, many of us have grown up in social, educational or work cultures that disvalue *pride*. We are not encouraged to be proud. Sometimes, pride is treated like a kind of vice, aligned with boastfulness or even arrogance, an unpleasant trait - the opposite of humility. 
 
-This is not what pride is. To be proud is to hold and share a value, and stand up alongside it, willing to be measured. To be proud is to be honest, vulnerable and courageous, and it's especially when you're proud about what you have done or how you are - because you're taking the risk of having it denied, or dismissed, or mocked.
+This is not what pride is. To be proud is to hold and share a value, and stand up alongside it, willing to be measured. To be proud is to be honest, vulnerable and courageous. That's especially so when you're proud about what you have done or how you are - because you're taking the risk of having it denied, or dismissed, or mocked.
 
-The courage it takes to be vulnerable is the behind another mistaken attitude to pride. It's easier and safer to maintain an ironic distance from values and achievements than to embrace them. So, sometimes people don't allow themselves to be proud - they behave as if they were too cool to be proud, even if what is happening is actually more complicated than that.
+The courage it takes to be vulnerable is behind another mistaken attitude to pride. It's easier and safer to maintain an ironic distance from values and achievements than to embrace them. So, sometimes people don't allow themselves to be proud - they behave as if they were too cool to be proud, even if what is happening is actually more complicated than that.
 
 Don't fall into either of these traps when you think about pride. Own your pride. Allow yourself to be proud of your achievements and values. **Get used to expressing pride in them.** Find stories, and concrete, personal examples that demonstrate them.
 
@@ -345,7 +345,7 @@ Consider:
 
 \ 
 
-    I found that I was struggling with zzz. I asked a more experienced colleague for advice. She told me (to my surprise) that she had had exactly the same problems, and we came up with a plan that really helped. What was even more surprising that other colleagues revealed that they also found it hard, and so some of us have been working on it together - it has helped other people too.
+    I found that I was struggling with zzz. I asked a more experienced colleague for advice. She told me (to my surprise) that she had had exactly the same problems, and we came up with a plan that really helped. What was even more surprising was that other colleagues revealed that they also found it hard, and so some of us have been working on it together - it has helped other people too.
 
 These are all excellent examples of **confronting weakness directly**. 
 
