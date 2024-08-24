@@ -1,3 +1,5 @@
+.. _interviews-stories:
+
 How to use stories in interviews
 ===================================
 
@@ -67,7 +69,7 @@ shows:
 * what they thought about the situation (*I realised that*)
 * what they valued or cared about (*it was a problem*)
 * what they did about it (*I suggested*)
-* what happened
+* what happened (*As a result*)
 * how the candidate reflected on the episode (*what surprised me*)
 
 And it shows how these the candidate relates these things to each other (*because*, *as a result*).
@@ -92,14 +94,13 @@ Stories help avoid this, because by their nature, they work to draw out what's r
 Language alone can help to perform this function. Consider how you might complete or use some of
 these phrases when thinking about an episode from your past:
 
-* *I noticed...*, *I discovered...* (observation)
-* *I realised...*, *I calculated...*, *I judged...* (thinking)
-* *I felt...*, *I was bothered by...*, *I wanted...* (value)
-* *I decided...*, *I asked...*, *I changed...* (action)
-* *as a result...*, *in consequence...* (result)
-* *I learned...* (reflection)
-* *because*, *if*, *although*, *unfortunately*, *however*, *despite* (words that join thoughts
-  together)
+* **observation**: *I noticed... I discovered...* 
+* **thinking**: *I realised... I calculated... I judged...* 
+* **value**: *I felt... I was bothered by... I wanted...*
+* **action**: *I decided... I asked... I changed...*
+* **result**: *as a result... in consequence...*
+* **reflection**: *I learned...*
+* **meaningful connection**: *because, if, although, unfortunately, however, despite*
 
 This is not a complete or exhaustive list. *It's not a set of pieces for putting a story together
 from.* Stories are more interesting that that. But, you can use them as triggers to help you think

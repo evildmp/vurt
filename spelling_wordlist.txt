@@ -5,15 +5,20 @@ Berhane
 Butau
 café
 Canonet
+datasheets
 Diátaxis
+discoverable
+disvalue
 Divio
 Dockerised
 Dogbe
+endedness
 Geraint
 hoc
 Kanae
 Kandoza
 linters
+LLM
 Makarudze
 mentorship
 Mhangami
@@ -29,3 +34,6 @@ Shituna
 softwarise
 transformative
 Upani
+xxx
+yyy
+zzz
