@@ -371,7 +371,7 @@ A prospective employer doesn't necessarily expect candidates to be bursting with
 
 Learn about the **organisation**, its history and its business model, and key people in it. Learn about its products; you need to be able to name them and say what they do, and ask intelligent questions about them. Look at, and form opinions of, the things that the company makes that are connected to this role. 
 
-Do your research on the **work**. I am regularly astounded to read in interviewers' scorecards for technical author roles that the candidate *has not looked at any of our documentation*. What level of of curiosity does that demonstrate? 
+Do your research on the **work**. I am regularly astounded to read in interviewers' scorecards for technical author roles that the candidate *has not looked at any of our documentation*. What sort of curiosity does that demonstrate? 
 
 On the other hand, it's always a positive sign when one of those candidate says something like "I read some of the documentation for xxx, and noticed yyy", and wants to have a conversation about it. It doesn't just show curiosity and interest, it also demonstrates their ability to discuss work.
 
@@ -405,7 +405,7 @@ Perhaps you don't have a good answer for a question. Do your best with it. It's 
 
 Perhaps you don't understand a question, or you dislike it, or don't think it makes sense, or think it's irrelevant, or that it got there by mistake. You might even be right, but you *still* need to answer it. 
 
-Perhaps the answer to a question is on the application form is in your CV already. Don't say "Please see my CV" - just answer the question.
+Perhaps the answer to a question on the application form is in your CV already. Don't say "Please see my CV" - just answer the question.
 
 And so on.
 
