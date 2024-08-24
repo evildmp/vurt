@@ -8,13 +8,13 @@ Twelve rules for for job applicants
     
     :ref:`What I know about hiring and interviewing <what-do-i-know>`
 
-I see many candidates come into our hiring process who don't do as well as they should. They go wrong in their initial applications or in interviews. Their CVs don't do them justice. They are unprepared, and don't understand what an employer wants from them.
+Many candidates come into our hiring process who don't do as well as they should. They go wrong in their initial applications or in interviews. Their CVs don't do them justice. They are unprepared, and don't understand what an employer wants from them.
 
-I'm dismayed each time. It's a missed opportunity for the candidate and it's a loss for us.
+I'm dismayed each time. It's a loss both for the candidate and for us.
 
-Candidates make the same kind of mistakes over and over. 
+I see the same mistakes over and over again, ruining people's chances in a depressing trail of missed opportunities.
 
-This article contains twelve fairly simple rules that can be put into practice to improve the quality of job applications and performance in interviews. They are the advice I wish I could give those candidates.
+This article contains twelve fairly simple rules or principles that can be put into practice to improve the quality of job applications and performance in interviews. It's the advice I wish I could give those candidates.
 
 ..  sidebar::
     
@@ -481,7 +481,9 @@ Don't ever make things up. Over-quantified impact claims like this ring complete
 
     Action verbs are important on your resume are vital [sic]. They evoke strong imagery to your reader, [...] by using words such as "spearheaded", "managed" and "drove".
 
-It's correct that :ref:`you should say what you did and why it mattered, and not just list responsibilities <interviewing-rules-demonstrate-value>`, but the advice above and their examples are dreadful. **It makes the candidate look like a liar.** No normal person uses language in their speech this way; don't use it in your CV, unless you also want to sound weird.
+It's correct that :ref:`you should say what you did and why it mattered, and not just list responsibilities <interviewing-rules-demonstrate-value>`, but the advice above and their examples are dreadful. **It makes the candidate look like a liar.** 
+
+No normal person uses language in their speech this way; don't use it in your CV, unless you also want to sound weird.
 
 Some of these sites provide a service that will ingest your CV and a job description, and rewrite the former  (perhaps more accurately, manufacture a fake version of it) so that it best matches the latter. Or, they offer hundreds of bullet points for you to copy and paste into your CV. These CVs are not just bad, but *inauthentic*, and the practices encouraged by such websites are dishonest.
 
@@ -515,7 +517,7 @@ If you don't believe in yourself, you can hardly expect anyone else to believe i
 
 The people who read applicants' CVs may encounter hundreds of them that exhibit AI traits. I see CVs over and over again that contain *literally the same phrases, expressions and claims*. 
 
-It is extremely creepy to see the same language appearing in applications from people across a range of backgrounds and regions of the world, and disturbing to see individual personality and cultural difference effaced by crude AI tools.
+It is creepy to see the same language appearing in applications from people across a range of backgrounds and regions of the world, and disturbing to see individual personality and cultural difference effaced by crude AI tools.
 
 Only a human being will get the job you apply for, so be a human being. 
 
