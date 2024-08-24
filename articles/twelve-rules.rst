@@ -40,7 +40,7 @@ Imagine a candidate who writes this on their CV:
 
     I am honest and hardworking, and a quick learner.
 
-Does we actually learn anything from this? Does it give us any reason to believe that the candidate is not in fact lazy, dishonest and a slow learner? 
+Do we actually learn anything from this? Does it give us any reason to believe that the candidate is not in fact lazy, dishonest and a slow learner? 
 
 Here's another example:
 
