@@ -54,4 +54,3 @@ Recent
 * training workshops for contributors to the `Django project <https://djangoproject.com>`_, June
 * a series of sessions for research software engineers, held as part of fellowship of the
   `Software Sustainability Institute <https://software.ac.uk>`_, March
-

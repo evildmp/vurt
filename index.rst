@@ -26,8 +26,7 @@ of Medicine <https://www.cardiff.ac.uk/medicine>`_.
 
 ..  admonition:: Work with me at Canonical
 
-    We're recruiting for more than 20 fully-remote Technical Author positions, in engineering teams
-    across the company. Please take a look at our `Technical Author job description
+    I have hired more than 20 fully-remote Technical Authors, with dozens more still to be hired. They work in engineering and other teams across the company. Take a look at our `Technical Author job description
     <https://canonical.com/careers/3798310/technical-author-ubuntu-and-canonical-products-remote>`_
     for more.
 
