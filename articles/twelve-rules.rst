@@ -12,7 +12,7 @@ This article contains twelve fairly simple rules or principles that job candidat
 
 Many candidates come into our hiring process at Canonical, and don't do as well as I think they should. They go wrong in their initial applications or in interviews. Their CVs don't do them justice. They are unfamiliar with expectations, unprepared for the experience and don't understand what a prospective employer needs from them.
 
-I see the same mistakes over and over again, a rather sad trail of missed opportunities. It's a loss for us as well as for the candidates. This is the advice I wish I could give them.
+I see the same mistakes over and over again, a rather sad trail of missed opportunities. It's a loss for us as well as for the candidates. This is the advice I wish I could have given them.
 
 ..  sidebar::
     
