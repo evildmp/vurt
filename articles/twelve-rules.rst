@@ -8,19 +8,17 @@ Twelve rules for for job applicants
     
     :ref:`What I know about hiring and interviewing <what-do-i-know>`
 
-Many candidates come into our hiring process who don't do as well as they should. They go wrong in their initial applications or in interviews. Their CVs don't do them justice. They are unprepared, and don't understand what an employer wants from them.
+This article contains twelve fairly simple rules or principles that job candidates can put into practice, to improve the quality of their applications and their performance in interviews. 
 
-I'm dismayed each time. It's a loss both for the candidate and for us.
+Many candidates come into our hiring process at Canonical, and don't do as well as I think they should. They go wrong in their initial applications or in interviews. Their CVs don't do them justice. They are unfamiliar with expectations, unprepared for the experience and don't understand what a prospective employer needs from them.
 
-I see the same mistakes over and over again, ruining people's chances in a depressing trail of missed opportunities.
-
-This article contains twelve fairly simple rules or principles that can be put into practice to improve the quality of job applications and performance in interviews. It's the advice I wish I could give those candidates.
+I see the same mistakes over and over again, a rather sad trail of missed opportunities. It's a loss for us as well as for the candidates. This is the advice I wish I could give them.
 
 ..  sidebar::
     
     See also :ref:`interviewing-three-truths`, which will give you additional context for these rules.
 
-These rules are not 'tips' or 'secrets'. They contain advice based on principles. The principles are based upon an understanding of what happens in a candidate's encounters in a hiring process, and the nature of the relationship between the candidate and the prospective employer.
+The rules here are not 'tips' or 'secrets'. They contain advice based on principles. The principles are based upon an understanding of what happens in a candidate's encounters in a hiring process, and the nature of the relationship between the candidate and the prospective employer.
 
 They are not in any particular order, but several of them are related to each other and I have tried to arrange them in a way that makes sense.
 

@@ -1,0 +1,4 @@
+[submodule "furo"]
+	path = furo
+	url = git@github.com:evildmp/furo.git
+	branch = vurt
