@@ -76,21 +76,38 @@ When you show something instead of telling it, you **leave room for the other pe
 
 What you need to demonstrate is *value*. In a job application that means you need to **identify the value you bring and connect it with your actions**.
 
+
+The painfully obvious 
+----------------------
+
+..  sidebar::
+
+    ..  image:: /images/i-wrote-tests.png
+        :alt: Don't state the painfully obvious
+
 Imagine this on the CV of an engineer:
 
     **April 2021-present** *Test engineer, Company X (Berlin)*
 
+    * Wrote tests and maintained test suites 
     * Worked with developers and product managers to identify potential issues
     * Defined testing strategies and objectives
-    * Wrote tests and maintained test suites 
 
-This is simply a waste of space. (Can you imagine a test engineer who *didn't* write tests?) Don't expend precious words on a CV saying the painfully obvious. Just because some responsibilities are listed in a job advertisement is not a good reason to put them in your CV. Instead, find ways to demonstrate your value:
+Or you can imagine the conversation, equally dull and unrevealing. 
+
+*Don't waste precious words saying the painfully obvious.*
+
+
+Revealing value
+---------------
+
+Value is demonstrated in things that are *not already obvious* to the person who hears about them. A particular trap candidates fall into is believing that just because various responsibilities are listed in a job advertisement, they must list them in their CV. *Those CVs reveal nothing.* It's much better to find ways to show your value:
 
     * Set up a weekly "Test engineering office hours", reducing friction in our process
     * Introduced one of our teams to TDD; they adopted it with such good results that our CTO asked me to do the same for several other teams 
     * Completely reconfigured our testing infrastructure, aiming to improve build times and lower costs (success on both counts) 
 
-It's just as important in an interview as in a CV. When you hear "Tell me more about your work at Company X", don't start by thinking of things to say about tasks, responsibilities or activities. Think about the *value* they brought.
+And in an interview, when you hear "Tell me more about your work at Company X", don't start by thinking of things to say about tasks, responsibilities or activities. Think about the *value* they brought.
 
 A good way to do that is to use stories :ref:`(see below) <interviewing-rules-tell-stories>`. Another way is to think of how things were *before* and *after* your contribution:
 
@@ -133,9 +150,13 @@ or:
 
     I am skilled in using Python web tools such as Django and Flask to develop web apps and RESTful APIs. My experience includes using Requests and BeautifulSoup for web scraping. I am adept at deploying apps on platforms like AWS and Heroku, enabling me to build scalable, efficient web solutions.
 
-The second one tries to tell rather than show - but fails even to tell anything very well. "Tools such as", "my experience includes", "platforms like" are intended to evoke a wide range of skills that aren't actually listed, but instead these phrases reduce everything to the same vague, generic level. A million different Python developers might be able to say exactly the same thing.
+The second one tries to tell rather than show - but fails even to tell anything very well. "Tools such as", "my experience includes", "platforms like" are intended to evoke a wide range of skills that aren't actually listed, but instead these phrases reduce everything to the same vague, generic level. 
 
-The first version on the other hand sticks to a single, actual project, and mentions only the specific tools involved in it. It relates what actually happened. "I considered ... but" turns it into a miniature story, in which a protagonist acted. Perhaps there's only one person in the entire world of whom this story would be true.
+A million different Python developers might be able to say exactly the same thing.
+
+The first version on the other hand sticks to a single, actual project, and mentions only the specific tools involved in it. It relates what actually happened. "I considered ... but" turns it into a miniature story, in which a protagonist acted. 
+
+Perhaps there's only one person in the entire world of whom this particular story would be true.
 
 It might seem that the author of the first version is at risk of not having their skills noticed - because they aren't mentioned. That's simply not the case at all. It's obvious that someone who has created an app that uses Requests and BeautifulSoup, that they considered deploying on AWS, has a wide range of useful Python and other skills. 
 
@@ -168,7 +189,9 @@ Or you could take a more confident approach:
 
 We can see some of the bigger picture ourselves: this candidate thinks in terms of practices as well as tools. They have the confidence to own some opinions about them. They take a critical stance, and are confident enough to say why they think common opinion is mistaken. And we can see all of that *even before the candidate has said anything specific at all*.
 
-By the time the candidate has finished their discussion of DevOps practices, the interviewer will clearly understand that the candidate is also familiar with many aspects of DevOps that they haven't even mentioned. It doesn't very much matter what exactly the candidate decides to discuss. Just being able to discuss *some aspect* in depth and concrete detail makes it obvious that their grasp of it is much bigger.
+By the time the candidate has finished their discussion of DevOps practices, the interviewer will clearly understand that the candidate is also familiar with many aspects of DevOps that they haven't even mentioned. 
+
+It doesn't very much matter what exactly the candidate decides to discuss. Just being able to discuss *some aspect* in depth and concrete detail makes it obvious that their grasp of it is much bigger.
 
 
 5: Use perspectives
@@ -257,9 +280,13 @@ If the invitation is explicit ("What are you proud of in your studies?") you rea
 Useless self-deprecation
 ------------------------------
 
-An interviewer refers to a project you were involved in and says: "That's impressive, it looks like it took some fairly sophisticated Python skills to deliver successfully". **Do not reply**: "Oh no, actually I'm really not ..." and try to wave away the admiration (even if your first thought is of all the mistakes, dead-ends and bungled implementations that you came up with along the way, and the numerous people who helped dig you out of your own holes).
+An interviewer refers to a project you were involved in and says: "That's impressive, it looks like it took some fairly sophisticated Python skills to deliver successfully". 
 
-Self-deprecation is not humility. It's false and distancing, a deflection from scrutiny of yourself. Candidates sometimes say self-deprecating things because they're rattled by an interviewer's praise or admiration. Perhaps they worry that they're accepting something they don't really deserve, but *whatever* the reason, it doesn't make them look more honest and humble. It makes them look evasive and dubious, as if their other apparent praiseworthy attributes might also not be what they seem.
+**Do not reply**: "Oh no, actually I'm really not ..." and try to wave away the admiration (even if your first thought is of all the mistakes, dead-ends and bungled implementations that you came up with along the way, and the numerous people who helped dig you out of your own holes).
+
+Self-deprecation is not humility. It's false and distancing, a deflection from scrutiny of yourself. 
+
+Candidates sometimes say self-deprecating things because they're rattled by an interviewer's praise or admiration. Perhaps they worry that they're accepting something they don't really deserve, but *whatever* the reason, it doesn't make them look more honest and humble. It makes them look evasive and dubious, as if their other apparent praiseworthy attributes might also not be what they seem.
 
 
 Embrace pride and praise
@@ -285,7 +312,9 @@ The important thing is to describe it with honesty and to own your mistakes just
 8: Admit vulnerability
 ===========================
 
-An interview is often a high-stress situation. The pressure is on *you*. Perhaps you're not an experienced interviewee, or don't know what to expect, or you're one of those people who always comes up with the answer they wanted to give five minutes too late. Whatever form it takes, candidates' almost invariably try to hide their vulnerability. It's a mistake; **if you feel vulnerable in an interview, acknowledge and admit it**.
+An interview is often a high-stress situation. The pressure is on *you*. Perhaps you're not an experienced interviewee, or don't know what to expect, or you're one of those people who always comes up with the answer they wanted to give five minutes too late. 
+
+Whatever form it takes, candidates' almost invariably try to hide their vulnerability. It's a mistake; **if you feel vulnerable in an interview, acknowledge and admit it**.
 
 
 Name it 
@@ -317,7 +346,9 @@ You might be taken aback by an unexpected question, technical, professional or o
 
     I am not sure I completely understood your question. Do you mean zzz?
 
-As well as being honest and open, responses like this show a willingness to engage and find the right way forward. In the workplace, you're going to have any number of conversations where you don't fully understand what someone says, or you're not familiar with a technical topic, or have to deal with something unexpected. How you respond now shows an interviewer how you will respond if you become a colleague.
+As well as being honest and open, responses like this show a willingness to engage and find the right way forward. In the workplace, you're going to have any number of conversations where you don't fully understand what someone says, or you're not familiar with a technical topic, or have to deal with something unexpected. 
+
+How you respond now shows an interviewer how you will respond if you become a colleague.
 
 
 Do not invent
@@ -485,7 +516,9 @@ It's correct that :ref:`you should say what you did and why it mattered, and not
 
 No normal person uses language in their speech this way; don't use it in your CV, unless you also want to sound weird.
 
-Some of these sites provide a service that will ingest your CV and a job description, and rewrite the former  (perhaps more accurately, manufacture a fake version of it) so that it best matches the latter. Or, they offer hundreds of bullet points for you to copy and paste into your CV. These CVs are not just bad, but *inauthentic*, and the practices encouraged by such websites are dishonest.
+Some of these sites provide a service that will ingest your CV and a job description, and rewrite the former  (perhaps more accurately, manufacture a fake version of it) so that it best matches the latter. Or, they offer hundreds of bullet points for you to copy and paste into your CV. 
+
+These CVs are not just bad, but *inauthentic*, and the practices encouraged by such websites are dishonest.
 
 LLMs such as ChatGPT or Gemini can also offer to help improve or write (or invent) CVs, with results and advice that are just as unsatisfactory.
 
@@ -497,7 +530,9 @@ ChatGPT and friends
 
 LLM language and patterns appear in CVs, and also on application forms, written interviews and even in applicants' conversation. (I have even encountered a candidate trying to use an LLM to come up with answers in real-time during an interview, with predictable results.)
 
-I hire technical authors for software documentation roles. The application form asks candidates to say what they enjoy about technical communication and writing. When a person describes their enjoyment of something, their eyes light up with pleasure. We look for the same kind of response in candidates' writing. When it's real, they *want* to tell you about it. It comes from the heart, and everyone seems to have their own different, personal way of putting it. 
+I hire technical authors for software documentation roles. The application form asks candidates to say what they enjoy about technical communication and writing. 
+
+When a person describes their enjoyment of something, their eyes light up with pleasure. We look for the same kind of response in candidates' writing. When it's real, they *want* to tell you about it. It comes from the heart, and everyone seems to have their own different, personal way of putting it. 
 
 Unfortunately, many candidates refer this question - which is about *themselves* - to their favourite LLM. Their answers use patterns of words and stereotypical formulations that are instantly recognisable. The language is impersonal and *dead* (or sometimes, animated by a completely false enthusiasm, which is even worse).
 
