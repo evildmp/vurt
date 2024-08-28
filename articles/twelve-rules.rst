@@ -547,7 +547,7 @@ Being yourself and standing out
 ..  sidebar::
 
     ..  image:: /images/chatbot.png
-        :alt: 'I'd like to demonstrate my thoughtful approach, the depth of my insight and experience and my personal integrity by using words I copied from a Chatbot'
+        :alt: 'I would like to demonstrate my depth of insight by pasting in some words I copied from a chatbot'
 
 Successful candidates stand out. Candidates who use AI tools are sometimes barely distinguishable from one another. We repeatedly warn candidates against using AI tools in their applications, but many still fall into the trap. 
 
