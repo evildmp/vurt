@@ -544,6 +544,11 @@ These are not successful applications.
 Being yourself and standing out
 -------------------------------
 
+..  sidebar::
+
+    ..  image:: /images/chatbot.png
+        :alt: 'I'd like to demonstrate my thoughtful approach, the depth of my insight and experience and my personal integrity by using words I copied from a Chatbot'
+
 Successful candidates stand out. Candidates who use AI tools are sometimes barely distinguishable from one another. We repeatedly warn candidates against using AI tools in their applications, but many still fall into the trap. 
 
 Confident, experienced candidates who believe in themselves are not tempted to turn to AI tools. It's the ones who are less sure of themselves who do, hoping for a little extra help
