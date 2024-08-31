@@ -2,9 +2,15 @@
 Articles
 ================================
 
-
 On applying for jobs
 ====================
+
+..  toctree::
+    :titlesonly:
+
+    Twelve rules for job applicants <twelve-rules>
+    Three truths about applying for jobs <three-truths>
+    using-stories
 
 These articles address *hiring*, for the benefit of hopeful job applicants in need of advice. They're written from the perspective of hiring in the software industry, though a lot of the advice applies more generally too.
 
@@ -25,13 +31,6 @@ Together with other hiring leads and colleagues involved in hiring I review our 
 I have made several thousand final decisions about individual candidates, and contributed to decision-making about thousands more.
 
 Many of those decisions have been based on the principles and thinking that you will find discussed in these articles.
-
-..  toctree::
-    :titlesonly:
-
-    Twelve rules for job applicants <twelve-rules>
-    Three truths about applying for jobs <three-truths>
-    using-stories
 
 Other people and other companies will do some things differently - this is my advice, not anyone else's.
 

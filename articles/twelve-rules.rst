@@ -1,8 +1,8 @@
 .. _interviewing-rules:
 
-===================================
-Twelve rules for job applicants
-===================================
+================================================
+Twelve rules for job applications and interviews
+================================================
 
 ..  sidebar:: 
     
