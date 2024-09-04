@@ -163,6 +163,8 @@ It might seem that the author of the first version is at risk of not having thei
 We don't even need to worry particularly if this candidate is familiar with Django or Flask already - they have clearly demonstrated their ability to get things done with Python tools.
 
 
+.. _parts-not-wholes:
+
 4: Show the parts, not the whole
 ========================================
 
@@ -226,7 +228,7 @@ It doesn't matter *which* perspective you choose, because each one is as valuabl
 6: Tell stories
 =====================
 
-One of the things that human beings do best is to make wholes out of the parts. Another is to **make sense of things through stories**.
+One of the things that human beings do best is to :ref:`make wholes out of parts <parts-not-wholes>`. Another is to **make sense of things through stories**.
 
 ..  sidebar:: 
     
