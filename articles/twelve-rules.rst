@@ -316,7 +316,7 @@ The important thing is to describe it with honesty and to own your mistakes just
 
 An interview is often a high-stress situation. The pressure is on *you*. Perhaps you're not an experienced interviewee, or don't know what to expect, or you're one of those people who always comes up with the answer they wanted to give five minutes too late. 
 
-Whatever form it takes, candidates' almost invariably try to hide their vulnerability. It's a mistake; **if you feel vulnerable in an interview, acknowledge and admit it**.
+Whatever form it takes, candidates almost invariably try to hide their vulnerability. It's a mistake; **if you feel vulnerable in an interview, acknowledge and admit it**.
 
 
 Name it 
@@ -342,11 +342,11 @@ You might be taken aback by an unexpected question, technical, professional or o
 
 \
 
-    I'm sorry, I am not actually familiar with xxx. I have done quite a bit of yyy though - is it related to that?
+    I haven't done that in Go, but I have in Python, and I will do my best to describe the general approach I would take. 
 
 \
 
-    I am not sure I completely understood your question. Do you mean zzz?
+    I am not sure - I'll say what I think about this but please tell me if I am on the right track or not.
 
 As well as being honest and open, responses like this show a willingness to engage and find the right way forward. In the workplace, you're going to have any number of conversations where you don't fully understand what someone says, or you're not familiar with a technical topic, or have to deal with something unexpected. 
 
