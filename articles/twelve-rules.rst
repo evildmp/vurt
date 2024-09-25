@@ -216,7 +216,7 @@ Or:
 
     I think the social implications of open-source software ...
 
-It doesn't matter *which* perspective you choose, because each one is as valuable as the others. What matters is that you are aware of the choice and making it deliberately. 
+It doesn't matter *which* perspective you choose, because each one is as valuable as the others. What matters is that you are aware of the choice and make it deliberately. 
 
 *Naming a chosen perspective* makes it clear that you're doing this deliberately. It's also a reminder to yourself, helping you neatly round off what you have to say, keeping it within limits that you chose.
 
@@ -510,7 +510,7 @@ In fact, it's not a bad layout. However, the kind of content and the style of wr
     * Drove redevelopment of internal tracking systems, improving efficiency in account management by 15%
     * Refined product documentation review process, increasing satisfaction scores by 18%
 
-Don't ever make things up. Over-quantified impact claims like this ring completely false. They are not real or believable. According to the ResumeWorded:
+Don't ever make things up. Over-quantified impact claims like this ring completely false. They are not real or believable. According to ResumeWorded:
 
     Action verbs are important on your resume are vital [sic]. They evoke strong imagery to your reader, [...] by using words such as "spearheaded", "managed" and "drove".
 
