@@ -25,7 +25,89 @@ They are not in any particular order, but several of them are related to each ot
 Most of the examples are I use are real, with a few words changed.
 
 
-1: Show, don't just tell
+1: Answer the damn questions
+=================================
+
+Throughout the interview process, you will be asked many questions. The questions are not there for decoration or asked on a whim. It is staggering how often candidates simply fail to answer questions that they have been asked.
+
+..  sidebar::
+
+    This used to be rule number 11. I've moved it right to the top, because it's the simplest thing that people can do to be more successful in their job applications.
+
+    If you don't follow this rule, **you are guaranteed not to succeed.** 
+
+**You must answer every single question you're asked**, as best you can. And you must ask the question you were *actually* asked, not the one you wanted to be asked, or think you should have been asked.
+
+
+What if...
+-----------
+
+Every question is there because the recruiting team wants to know your answer.
+
+Perhaps you don't have a good answer for a question. Do your best with it. It's fine to say: "I am not sure about ... but I will do my best with this question".
+
+Perhaps you don't understand a question, or you dislike it, or don't think it makes sense, or think it's irrelevant, or that it got there by mistake. You might even be right - but you *still* need to answer it. 
+
+Perhaps the answer to a question on the application form is in your CV already. Don't say "Please see my CV" - *just answer the question*.
+
+And so on.
+
+
+Don't fight the questions
+-------------------------
+
+Don't jump to conclusions about *why* a question is being asked, or try to second-guess what a good answer would be.
+
+It is pointless to take an adversarial approach to the process. Even when it doesn't seem like it, remember that :ref:`applying for jobs is a game, and the prospective employer is on your side <interviewing-three-truths>`. You can win the game by helping them to help you, not by fighting them.
+
+If any questions bother you so much that you can't do that, you should save yourself the stress and withdraw your application.
+
+
+Pay attention 
+---------------
+
+**Every question you are asked gives you valuable information about what the company wants.** Use it. Take note of the questions you face at each stage; they provide a clue to what you ought to be thinking about for the next interviews.
+
+It's extremely simple: If you're asked about your experience, your experience matters. If they ask about your academic history, it means they care about your academic history. If they ask how you approach diversity and inclusion, it means that's important to them. The deeper they probe, the more they care about it.
+
+(If you have kept a note of the topics that were raised, this gives you material for preparing for subsequent interviews. "I was surprised that in my previous two interviews I wasn't asked about ..." is an excellent way to steer a conversation, especially if you add something like "... and I was hoping that I would be!")
+
+
+The same question, twice
+-------------------------
+
+Candidates are sometimes puzzled or even irritated to be asked the same question multiple times, for example by subsequent interviewers. 
+
+Don't mistake being asked *about the same topic* for being asked *the same question*. Different interviewers looking for different things and probing from different perspectives might very well want to *discuss the same topic* - but that is not *asking the same question*.
+
+There might be a good reason why you are being asked exactly the same question more than once. Or perhaps it's a sign of a poorly-designed or executed interviewing process. It doesn't matter: if you are interested in the job, you *still* need to answer it, as patiently and willingly the third time as the first.
+
+In other words, *just answer the questions*.
+
+
+You *can* question the questions
+--------------------------------
+
+Of course it's appropriate to question a question. But do it when someone has the opportunity to respond (not on an application form), and do it courteously, *after you have already answered the question*. 
+
+For example:
+
+    When I read the question about academic performance in my high school studies, I wondered if this position were intended for an early-career applicant. Why are you asking about that, when it was so long ago?
+
+But never say something like:
+
+    I believe my skills and experience speak for themselves, and are much more relevant than my studies - which were a long time ago.
+
+or:
+
+    I don't need to be a programmer to be a technical writer, why are you asking this?!
+
+or even:
+
+    Irrelevant question
+
+
+2: Show, don't just tell
 ========================
 
 The more we want someone to know something, the more we want to tell them, but it's often not the best way to get a message across. **What you show is more powerful and memorable than what you tell.**
@@ -71,7 +153,7 @@ When you show something instead of telling it, you **leave room for the other pe
 
 .. _interviewing-rules-demonstrate-value:
 
-2: Demonstrate value
+3: Demonstrate value
 =========================
 
 What you need to demonstrate is *value*. In a job application that means you need to **identify the value you bring and connect it with your actions**.
@@ -116,7 +198,7 @@ A good way to do that is to use stories :ref:`(see below) <interviewing-rules-te
 
 .. _interviewing-rules-be-personal:
 
-3: Be personal, specific and concrete
+4: Be personal, specific and concrete
 ==========================================
 
 Let's say you want to convey the breadth and depth of your programming experience. *You can't include all of everything.* You have to sacrifice something - either scope or detail. Often candidates address this dilemma by opting to use *general terms and tones* that can embrace everything without having to mention them all by name. 
@@ -165,7 +247,7 @@ We don't even need to worry particularly if this candidate is familiar with Djan
 
 .. _parts-not-wholes:
 
-4: Show the parts, not the whole
+5: Show the parts, not the whole
 ========================================
 
 Another way to fight off the urge to show *everything* is to remember that **we don't need to see all of something to know exactly what it is**. 
@@ -196,7 +278,7 @@ By the time the candidate has finished their discussion of DevOps practices, the
 It doesn't very much matter what exactly the candidate decides to discuss. Just being able to discuss *some aspect* in depth and concrete detail makes it obvious that their grasp of it is much bigger.
 
 
-5: Use perspectives
+6: Use perspectives
 =====================================
 
 Deliberately placing limits on what you discuss is always effective. Another way to do this is to pay attention to the *scope* of your own approach - **choose and use perspectives consciously and deliberately.** 
@@ -225,7 +307,7 @@ It doesn't matter *which* perspective you choose, because each one is as valuabl
 
 .. _interviewing-rules-tell-stories:
 
-6: Tell stories
+7: Tell stories
 =====================
 
 One of the things that human beings do best is to :ref:`make wholes out of parts <parts-not-wholes>`. Another is to **make sense of things through stories**.
@@ -257,7 +339,7 @@ Think up a series of stories, that help show what you want to say. Think careful
 
 .. _interviewing-rules-be-proud:
 
-7: Be proud
+8: Be proud
 ================
 
 Your interviewers need to see your motivations and values. As usual, you can show these much more powerfully than you can say them. If you can **express genuine pride**, you offer the interviewer one of the most engaging, warm, rewarding and positive encounters they can have. It's a window into your heart. 
@@ -311,7 +393,7 @@ The important thing is to describe it with honesty and to own your mistakes just
 
 .. _interviewing-rules-admit-vulnerability:
 
-8: Admit vulnerability
+9: Admit vulnerability
 ===========================
 
 An interview is often a high-stress situation. The pressure is on *you*. Perhaps you're not an experienced interviewee, or don't know what to expect, or you're one of those people who always comes up with the answer they wanted to give five minutes too late. 
@@ -363,8 +445,8 @@ There is hardly anything more excruciating for an interviewer than to listen to 
 
 .. _interviewing-rules-confront-weaknesses:
 
-9: Confront weaknesses
-======================
+10: Confront weaknesses
+=======================
 
 Every candidate has some weaknesses, and every interviewer knows that. The difference is that some candidates confront their own weaknesses in much better ways than others. **When you're asked about weaknesses, you need to have clear answers that show you have thought about them.** It's an opportunity to demonstrate self-awareness and a constructive approach to self-development.
 
@@ -395,7 +477,7 @@ If you have you an on-going, unaddressed problem ("I've always had a problem wit
 It's likely that an effective hiring process is going to discover it, whatever you say about it.
 
 
-10: Do your research 
+11: Do your research 
 ====================================
 
 A prospective employer doesn't necessarily expect candidates to be bursting with enthusiasm for a particular role or for the company. You *hope* that this is going to be the right one for you, and the interview process helps you discover that. But you are expected to be fully engaged and demonstrably serious. **Do your research, and use it; talk and ask about what you have learned.**
@@ -419,78 +501,6 @@ You are bound to discover some negative opinions about the organisation, its pol
 This is a mistake. Firstly, it's very unlikely that asking a difficult question will count against you, as long as it is done in a respectful and appropriate way. "I read that ... - can you comment on that?" should not be an unwelcome question, even if what you are asking about is a criticism or a negative review. Ask those questions in open, straightforward, unembarrassed ways.
 
 And if it turns out that asking a question like that counts against you, then you had a lucky escape, because you do not want to work at an organisation where it's not safe to ask questions.
-
-
-11: Answer the damn questions
-=================================
-
-Throughout the interview process, you will be asked many questions. As a candidate, **you need to answer every single question you're asked**, as best you can. 
-
-It is astounding how often candidates simply don't answer questions in the applications or written interviews that we see. They are not there for decoration or asked on a whim. 
-
-
-What if...
------------
-
-Perhaps you don't have a good answer for a question. Do your best with it. It's fine to start: "I am not sure about ... but I will do my best with this question".
-
-Perhaps you don't understand a question, or you dislike it, or don't think it makes sense, or think it's irrelevant, or that it got there by mistake. You might even be right, but you *still* need to answer it. 
-
-Perhaps the answer to a question on the application form is in your CV already. Don't say "Please see my CV" - just answer the question.
-
-And so on.
-
-Every question is there because the recruiting team need to know your answer to it.
-
-
-Don't fight the questions
--------------------------
-
-Don't jump to conclusions about *why* a question is being asked, or try to second-guess what a good answer would be.
-
-It is pointless to take a hostile or adversarial approach to the process. You have to remember, even when it might not seem like it, that :ref:`applying for jobs is a game, and the prospective employer is on your side <interviewing-three-truths>`. You can win the game by helping them to help you, not by fighting them.
-
-If any questions bother you so much that you can't do that, you should save yourself the stress and withdraw your application.
-
-
-Pay attention 
----------------
-
-**Every question you are asked gives you valuable information about what the company wants.** Use it. Take note of the questions you face at each stage; they provide a clue to what you ought to be thinking about for the next interviews.
-
-It's extremely simple: if you're asked about your experience, your experience matters. If they ask about your academic history, it means they care about that. If they ask how you approach diversity and inclusion, it means that's important to them. The deeper they probe, the more they care about it.
-
-What they fail to ask about is also a clue. If you don't hear questions about years of experience, it's a sign that they probably aren't interested in it. 
-
-It's hard to notice what questions don't get asked, so one useful thing to do is list - in advance - the topics you expect to be raised in interviews, and tick them off. You may see some interesting patterns.
-
-If you have kept a note of the topics that were raised, this gives you material for preparing for subsequent interviews. "I was surprised that in my previous two interviews I wasn't asked about ..." is an excellent way to steer a conversation, especially if you add something like "... and I was hoping that I would be!"
-
-
-The same question, twice
--------------------------
-
-Candidates are sometimes puzzled or even a bit irritated to be asked the same question multiple times: in the original application, in a written interview, or then by subsequent interviewers. 
-
-Don't mistake being asked *about the same topic* for being asked *the same question*. Different interviewers looking for different things and probing from different perspectives might very well want to *discuss the same topic* - but that is not *asking the same question*.
-
-There might be a good reason why you are being asked exactly the same question more than once. Or perhaps it's a sign of a poorly-designed or executed interviewing process. It doesn't matter: even if it is, you *still* need to answer it, as patiently and willingly the third time as the first.
-
-
-Question the questions
-----------------------
-
-Of course it's appropriate to question a question. Do it when someone has the opportunity to respond (not on an application form), and do it courteously, for example:
-
-    When I read the question about academic performance in my high school studies, I wondered if this position were intended for an early-career applicant. Why are you asking about that, when it was so long ago?
-
-But not:
-
-    I don't need to be a programmer to be a technical writer, why are you asking this?!
-
-or even:
-
-    Irrelevant question
 
 
 12: Be a human being
