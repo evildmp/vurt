@@ -36,7 +36,7 @@ Throughout the interview process, you will be asked many questions. The question
 
     If you don't follow this rule, **you are guaranteed not to succeed.** 
 
-**You must answer every single question you're asked**, as best you can. And you must ask the question you were *actually* asked, not the one you wanted to be asked, or think you should have been asked.
+**You must answer every single question you're asked**, as best you can. And you must answer the question you were *actually* asked, not the one you wanted to be asked, or think you should have been asked.
 
 
 What if...
