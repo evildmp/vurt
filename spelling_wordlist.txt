@@ -14,6 +14,8 @@ Dockerised
 Dogbe
 endedness
 Geraint
+Groningen
+Haag
 hoc
 Kanae
 Kandoza
@@ -35,6 +37,7 @@ softwarise
 transformative
 Upani
 Vigo
+Wikimedia
 xxx
 yyy
 zzz
