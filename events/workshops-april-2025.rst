@@ -1,3 +1,5 @@
+:orphan:
+
 .. _workshops-april-2025:
 
 Diátaxis and documentation success workshop, April 2025
