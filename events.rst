@@ -7,8 +7,12 @@ Events
 Forthcoming
 -----------
 
-* `DjangoCon US <https://2024.djangocon.us>`__, Durham NC, October; workshop: *Getting documentation done*   
+2025
+~~~~
 
+* `PyGrunn <https://pygrunn.org>`__, Groningen, May; keynote
+* `DjangoCon Europe <https://2025.djangocon.eu>`__, Dublin, April; workshop: *Measuring and elevating quality in engineering practice*
+* :ref:`Workshops: Diátaxis and documentation success <workshops-april-2025>` (online), for open knowledge projects
 
 Recent
 ------
@@ -16,6 +20,9 @@ Recent
 2024
 ~~~~
 
+* `Ubuntu Summit <https://ubuntu.com/summit>`__, Den Haag, November; talk: *I am a developer!*
+* `PyCon Netherlands <https://pycon-nl.org>`__, Utrecht, October; talk: *The attentive programmer*
+* `DjangoCon US <https://2024.djangocon.us>`__, Durham NC, October; workshop: *Getting documentation done*
 * `DjangoCon Europe <https://2024.djangocon.eu>`__, Vigo, June; talk: *The attentive programmer*; workshop: *Getting documentation done*
 * `PyCon Italia <https://pycon.it>`_, Florence, May; keynote: *The attentive programmer*
 * `PyCon Namibia <https://na.pycon.org>`_, Windhoek, March; workshop: *Python with BBC micro:bit*
@@ -24,10 +31,10 @@ Recent
 2023
 ~~~~
 
-* `DjangoCon Africa <https://2023.djangocon.africa>`__, Zanzibar, November; talk: *All that jazz*   
-* `DjangoCon US <https://2023.djangocon.us>`__, Durham NC, October; talk: *The programmer's imagination*   
-* `PyCon UK <https://pyconuk.org>`__, Cardiff, September; talk: *The programmer's imagination*; workshop: *Practical tools for documentation at scale*   
-* `EuroPython <https://ep2023.europython.eu>`_, Prague, July; talk: *Messages from Prague*, workshop: *Practical tools for documentation at scale*   
+* `DjangoCon Africa <https://2023.djangocon.africa>`__, Zanzibar, November; talk: *All that jazz*
+* `DjangoCon US <https://2023.djangocon.us>`__, Durham NC, October; talk: *The programmer's imagination*
+* `PyCon UK <https://pyconuk.org>`__, Cardiff, September; talk: *The programmer's imagination*; workshop: *Practical tools for documentation at scale*
+* `EuroPython <https://ep2023.europython.eu>`_, Prague, July; talk: *Messages from Prague*, workshop: *Practical tools for documentation at scale*
 * `DjangoCon Europe <https://2023.djangocon.eu>`_, Edinburgh, May; talk: *The programmer's imagination*; workshop: *Practical tools for documentation at scale*
 * `A two-day workshop for FAIRmat
   <https://www.fairmat-nfdi.eu/lisenews/fairmat_documentation_workshop/73>`_ on

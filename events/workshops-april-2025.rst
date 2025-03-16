@@ -14,7 +14,7 @@ I will be hosting a free two-part documentation workshop. This workshop is dedic
 
     Not sure if the project you participate in qualifies? :ref:`Apply anyway <workshop-april-2025-register>` and I will let you know.
 
-Examples of open knowledge projects: Wikipedia/Wikimedia, OpenStreetMap, Open Knowledge Foundation and so on.
+Examples of open knowledge projects: Wikipedia/Wikimedia Foundation, OpenStreetMap, Open Knowledge Foundation and so on.
 
 
 Format and expectations
