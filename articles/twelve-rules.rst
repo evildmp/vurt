@@ -4,18 +4,18 @@
 Twelve rules for job applications and interviews
 ================================================
 
-..  sidebar:: 
-    
+..  sidebar::
+
     :ref:`What I know about hiring and interviewing <what-do-i-know>`
 
-This article contains twelve fairly simple rules or principles that job candidates can put into practice, to improve the quality of their applications and their performance in interviews. 
+This article contains twelve fairly simple rules or principles that job candidates can put into practice, to improve the quality of their applications and their performance in interviews.
 
 Many candidates come into our hiring process at Canonical, and don't do as well as I think they should. They go wrong in their initial applications or in interviews. Their CVs don't do them justice. They are unfamiliar with expectations, unprepared for the experience and don't understand what a prospective employer needs from them.
 
 I see the same mistakes over and over again, a rather sad trail of missed opportunities. It's a loss for us as well as for the candidates. This is the advice I wish I could have given them.
 
 ..  sidebar::
-    
+
     See also :ref:`interviewing-three-truths`, which will give you additional context for these rules.
 
 The rules here are not 'tips' or 'secrets'. They contain advice based on principles. The principles are based upon an understanding of what happens in a candidate's encounters in a hiring process, and the nature of the relationship between the candidate and the prospective employer.
@@ -24,6 +24,8 @@ They are not in any particular order, but several of them are related to each ot
 
 Most of the examples are I use are real, with a few words changed.
 
+
+.. _interviewing-rules-answer:
 
 1: Answer the damn questions
 =================================
@@ -34,7 +36,7 @@ Throughout the interview process, you will be asked many questions. The question
 
     This used to be rule number 11. I've moved it right to the top, because it's the simplest thing that people can do to be more successful in their job applications.
 
-    If you don't follow this rule, **you are guaranteed not to succeed.** 
+    If you don't follow this rule, **you are guaranteed not to succeed.**
 
 **You must answer every single question you're asked**, as best you can. And you must answer the question you were *actually* asked, not the one you wanted to be asked, or think you should have been asked.
 
@@ -46,7 +48,7 @@ Every question is there because the recruiting team wants to know your answer.
 
 Perhaps you don't have a good answer for a question. Do your best with it. It's fine to say: "I am not sure about ... but I will do my best with this question".
 
-Perhaps you don't understand a question, or you dislike it, or don't think it makes sense, or think it's irrelevant, or that it got there by mistake. You might even be right - but you *still* need to answer it. 
+Perhaps you don't understand a question, or you dislike it, or don't think it makes sense, or think it's irrelevant, or that it got there by mistake. You might even be right - but you *still* need to answer it.
 
 Perhaps the answer to a question on the application form is in your CV already. Don't say "Please see my CV" - *just answer the question*.
 
@@ -63,7 +65,7 @@ It is pointless to take an adversarial approach to the process. Even when it doe
 If any questions bother you so much that you can't do that, you should save yourself the stress and withdraw your application.
 
 
-Pay attention 
+Pay attention
 ---------------
 
 **Every question you are asked gives you valuable information about what the company wants.** Use it. Take note of the questions you face at each stage; they provide a clue to what you ought to be thinking about for the next interviews.
@@ -76,7 +78,7 @@ It's extremely simple: If you're asked about your experience, your experience ma
 The same question, twice
 -------------------------
 
-Candidates are sometimes puzzled or even irritated to be asked the same question multiple times, for example by subsequent interviewers. 
+Candidates are sometimes puzzled or even irritated to be asked the same question multiple times, for example by subsequent interviewers.
 
 Don't mistake being asked *about the same topic* for being asked *the same question*. Different interviewers looking for different things and probing from different perspectives might very well want to *discuss the same topic* - but that is not *asking the same question*.
 
@@ -88,7 +90,7 @@ In other words, *just answer the questions*.
 You *can* question the questions
 --------------------------------
 
-Of course it's appropriate to question a question. But do it when someone has the opportunity to respond (not on an application form), and do it courteously, *after you have already answered the question*. 
+Of course it's appropriate to question a question. But do it when someone has the opportunity to respond (not on an application form), and do it courteously, *after you have already answered the question*.
 
 For example:
 
@@ -107,6 +109,8 @@ or even:
     Irrelevant question
 
 
+.. _interviewing-rules-show:
+
 2: Show, don't just tell
 ========================
 
@@ -120,7 +124,7 @@ Imagine a candidate who writes this on their CV:
 
     I am honest and hardworking, and a quick learner.
 
-Do we actually learn anything from this? Does it give us any reason to believe that the candidate is not in fact lazy, dishonest and a slow learner? 
+Do we actually learn anything from this? Does it give us any reason to believe that the candidate is not in fact lazy, dishonest and a slow learner?
 
 Here's another example:
 
@@ -159,7 +163,7 @@ When you show something instead of telling it, you **leave room for the other pe
 What you need to demonstrate is *value*. In a job application that means you need to **identify the value you bring and connect it with your actions**.
 
 
-The painfully obvious 
+The painfully obvious
 ----------------------
 
 ..  sidebar::
@@ -171,11 +175,11 @@ Imagine this on the CV of an engineer:
 
     **April 2021-present** *Test engineer, Company X (Berlin)*
 
-    * Wrote tests and maintained test suites 
+    * Wrote tests and maintained test suites
     * Worked with developers and product managers to identify potential issues
     * Defined testing strategies and objectives
 
-Or you can imagine the conversation, equally dull and unrevealing. 
+Or you can imagine the conversation, equally dull and unrevealing.
 
 *Don't waste precious words saying the painfully obvious.*
 
@@ -186,8 +190,8 @@ Revealing value
 Value is demonstrated in things that are *not already obvious* to the person who hears about them. A particular trap candidates fall into is believing that just because various responsibilities are listed in a job advertisement, they must list them in their CV. *Those CVs reveal nothing.* It's much better to find ways to show your value:
 
     * Set up a weekly "Test engineering office hours", reducing friction in our process
-    * Introduced one of our teams to TDD; they adopted it with such good results that our CTO asked me to do the same for several other teams 
-    * Completely reconfigured our testing infrastructure, aiming to improve build times and lower costs (success on both counts) 
+    * Introduced one of our teams to TDD; they adopted it with such good results that our CTO asked me to do the same for several other teams
+    * Completely reconfigured our testing infrastructure, aiming to improve build times and lower costs (success on both counts)
 
 And in an interview, when you hear "Tell me more about your work at Company X", don't start by thinking of things to say about tasks, responsibilities or activities. Think about the *value* they brought.
 
@@ -201,9 +205,9 @@ A good way to do that is to use stories :ref:`(see below) <interviewing-rules-te
 4: Be personal, specific and concrete
 ==========================================
 
-Let's say you want to convey the breadth and depth of your programming experience. *You can't include all of everything.* You have to sacrifice something - either scope or detail. Often candidates address this dilemma by opting to use *general terms and tones* that can embrace everything without having to mention them all by name. 
+Let's say you want to convey the breadth and depth of your programming experience. *You can't include all of everything.* You have to sacrifice something - either scope or detail. Often candidates address this dilemma by opting to use *general terms and tones* that can embrace everything without having to mention them all by name.
 
-And, they want to give an account of themselves that is authoritative and serious, and so take *impersonal perspectives* on the things they want to say. 
+And, they want to give an account of themselves that is authoritative and serious, and so take *impersonal perspectives* on the things they want to say.
 
 These are both mistakes. It's better to **rely on a personal, specific and concrete approach to get yourself across most effectively**.
 
@@ -228,29 +232,29 @@ And which of these two:
 
     I used Requests to find the datasheets in our specifications library on the old website, and BeautifulSoup to clean up the data for import into the new system. I considered deploying the app on AWS, but in the end decided it was simpler and quicker to run it locally.
 
-or: 
+or:
 
     I am skilled in using Python web tools such as Django and Flask to develop web apps and RESTful APIs. My experience includes using Requests and BeautifulSoup for web scraping. I am adept at deploying apps on platforms like AWS and Heroku, enabling me to build scalable, efficient web solutions.
 
-The second one tries to tell rather than show - but fails even to tell anything very well. "Tools such as", "my experience includes", "platforms like" are intended to evoke a wide range of skills that aren't actually listed, but instead these phrases reduce everything to the same vague, generic level. 
+The second one tries to tell rather than show - but fails even to tell anything very well. "Tools such as", "my experience includes", "platforms like" are intended to evoke a wide range of skills that aren't actually listed, but instead these phrases reduce everything to the same vague, generic level.
 
 A million different Python developers might be able to say exactly the same thing.
 
-The first version on the other hand sticks to a single, actual project, and mentions only the specific tools involved in it. It relates what actually happened. "I considered ... but" turns it into a miniature story, in which a protagonist acted. 
+The first version on the other hand sticks to a single, actual project, and mentions only the specific tools involved in it. It relates what actually happened. "I considered ... but" turns it into a miniature story, in which a protagonist acted.
 
 Perhaps there's only one person in the entire world of whom this particular story would be true.
 
-It might seem that the author of the first version is at risk of not having their skills noticed - because they aren't mentioned. That's simply not the case at all. It's obvious that someone who has created an app that uses Requests and BeautifulSoup, that they considered deploying on AWS, has a wide range of useful Python and other skills. 
+It might seem that the author of the first version is at risk of not having their skills noticed - because they aren't mentioned. That's simply not the case at all. It's obvious that someone who has created an app that uses Requests and BeautifulSoup, that they considered deploying on AWS, has a wide range of useful Python and other skills.
 
 We don't even need to worry particularly if this candidate is familiar with Django or Flask already - they have clearly demonstrated their ability to get things done with Python tools.
 
 
-.. _parts-not-wholes:
+.. _interviewing-rules-parts-not-wholes:
 
 5: Show the parts, not the whole
 ========================================
 
-Another way to fight off the urge to show *everything* is to remember that **we don't need to see all of something to know exactly what it is**. 
+Another way to fight off the urge to show *everything* is to remember that **we don't need to see all of something to know exactly what it is**.
 
 ..  sidebar::
 
@@ -263,9 +267,9 @@ Far too often a candidate wastes time trying, in effect, to draw the whole donke
 
 If you like, point out that you're only going to show a part of a much bigger whole that you are also aware of.
 
-Let's say your interviewer says: "Tell me about your DevOps experience." 
+Let's say your interviewer says: "Tell me about your DevOps experience."
 
-You might be tempted to take a deep breath and launch into a long list of different tools, resources, methods, practices, and roles, hoping that you don't forget any of them. You would only be able to present a thin and colourless picture of it all. 
+You might be tempted to take a deep breath and launch into a long list of different tools, resources, methods, practices, and roles, hoping that you don't forget any of them. You would only be able to present a thin and colourless picture of it all.
 
 Or you could take a more confident approach:
 
@@ -273,17 +277,19 @@ Or you could take a more confident approach:
 
 We can see some of the bigger picture ourselves: this candidate thinks in terms of practices as well as tools. They have the confidence to own some opinions about them. They take a critical stance, and are confident enough to say why they think common opinion is mistaken. And we can see all of that *even before the candidate has said anything specific at all*.
 
-By the time the candidate has finished their discussion of DevOps practices, the interviewer will clearly understand that the candidate is also familiar with many aspects of DevOps that they haven't even mentioned. 
+By the time the candidate has finished their discussion of DevOps practices, the interviewer will clearly understand that the candidate is also familiar with many aspects of DevOps that they haven't even mentioned.
 
 It doesn't very much matter what exactly the candidate decides to discuss. Just being able to discuss *some aspect* in depth and concrete detail makes it obvious that their grasp of it is much bigger.
 
 
+.. _interviewing-rules-perspectives:
+
 6: Use perspectives
 =====================================
 
-Deliberately placing limits on what you discuss is always effective. Another way to do this is to pay attention to the *scope* of your own approach - **choose and use perspectives consciously and deliberately.** 
+Deliberately placing limits on what you discuss is always effective. Another way to do this is to pay attention to the *scope* of your own approach - **choose and use perspectives consciously and deliberately.**
 
-Suppose you're invited to say what you think is significant about open-source software. Topics like this are risky, because they are so open-ended - one could write a book on the subject. They can lead you to respond in unfocused, unmemorable ways. You can avoid this risk by opting to consider the question *from some particular perspective*, closing down the open-endedness. 
+Suppose you're invited to say what you think is significant about open-source software. Topics like this are risky, because they are so open-ended - one could write a book on the subject. They can lead you to respond in unfocused, unmemorable ways. You can avoid this risk by opting to consider the question *from some particular perspective*, closing down the open-endedness.
 
 In this case you could decide to answer from the perspective of *you as an individual*; of *the people around you*; of *your wider society*; of *the whole world*.
 
@@ -294,11 +300,11 @@ For example:
 
     For me, personally, open-source software has meant ...
 
-Or: 
+Or:
 
     I think the social implications of open-source software ...
 
-It doesn't matter *which* perspective you choose, because each one is as valuable as the others. What matters is that you are aware of the choice and make it deliberately. 
+It doesn't matter *which* perspective you choose, because each one is as valuable as the others. What matters is that you are aware of the choice and make it deliberately.
 
 *Naming a chosen perspective* makes it clear that you're doing this deliberately. It's also a reminder to yourself, helping you neatly round off what you have to say, keeping it within limits that you chose.
 
@@ -312,8 +318,8 @@ It doesn't matter *which* perspective you choose, because each one is as valuabl
 
 One of the things that human beings do best is to :ref:`make wholes out of parts <parts-not-wholes>`. Another is to **make sense of things through stories**.
 
-..  sidebar:: 
-    
+..  sidebar::
+
     The article :ref:`interviews-stories` has much more about how to use stories effectively.
 
 Stories have meaning. They resonate with us and we remember them. Often the best way to convey a message is via a story. If you tell me a story about something you did, I will learn and understand more about you than I would from any self-description of your character.
@@ -324,13 +330,13 @@ Opportunities
 
 Look out for opportunities. Sometimes you'll get an explicit offer to tell a story ("Describe a time when ..."). Other times it's up to you recognise a good opportunity, for example in a question like "Where do you think your strengths lie?" or "Would you say you are a strong manager/good team player/independent worker?"
 
-You might be tempted to say "Yes, I think I am a strong manager because ...", and then list all the things you do, the values you hold, the practices you follow that you think make you fit that description. 
+You might be tempted to say "Yes, I think I am a strong manager because ...", and then list all the things you do, the values you hold, the practices you follow that you think make you fit that description.
 
 Instead, it's much more effective to say "Yes, and let me give you an example" and then tell your story.
 
 
 Be prepared
------------ 
+-----------
 
 Stories need work, so that they can be told in compact, clear ways. You might have the perfect story in your life as an answer to a question, but unless you have already thought about how you will *relate* that story, you're not going to do the best job of it. You can ruin a perfectly good story with a rambling, unfocused delivery.
 
@@ -342,9 +348,9 @@ Think up a series of stories, that help show what you want to say. Think careful
 8: Be proud
 ================
 
-Your interviewers need to see your motivations and values. As usual, you can show these much more powerfully than you can say them. If you can **express genuine pride**, you offer the interviewer one of the most engaging, warm, rewarding and positive encounters they can have. It's a window into your heart. 
+Your interviewers need to see your motivations and values. As usual, you can show these much more powerfully than you can say them. If you can **express genuine pride**, you offer the interviewer one of the most engaging, warm, rewarding and positive encounters they can have. It's a window into your heart.
 
-Unfortunately, many of us have grown up in social, educational or work cultures that disvalue *pride*. We are not encouraged to be proud. Sometimes, pride is treated like a kind of vice, aligned with boastfulness or even arrogance, an unpleasant trait - the opposite of humility. 
+Unfortunately, many of us have grown up in social, educational or work cultures that disvalue *pride*. We are not encouraged to be proud. Sometimes, pride is treated like a kind of vice, aligned with boastfulness or even arrogance, an unpleasant trait - the opposite of humility.
 
 This is not what pride is. To be proud is to hold and share a value, and stand up alongside it, willing to be measured. To be proud is to be honest, vulnerable and courageous. That's especially so when you're proud about what you have done or how you are - because you're taking the risk of having it denied, or dismissed, or mocked.
 
@@ -358,17 +364,17 @@ Invitations
 
 Be alert for invitations to express pride. A question about (for example) your academic achievements is partly about the plain facts of your academic record, but it's also about how you relate to it. Your pride about a particular academic achievement says a lot to an interviewer.
 
-If the invitation is explicit ("What are you proud of in your studies?") you really must answer answer that question. Sometimes it's not explicit ("How did you do in your studies?") but even then you need to see this as an invitation and opportunity to share what what you're proud about. 
+If the invitation is explicit ("What are you proud of in your studies?") you really must answer answer that question. Sometimes it's not explicit ("How did you do in your studies?") but even then you need to see this as an invitation and opportunity to share what what you're proud about.
 
 
 Useless self-deprecation
 ------------------------------
 
-An interviewer refers to a project you were involved in and says: "That's impressive, it looks like it took some fairly sophisticated Python skills to deliver successfully". 
+An interviewer refers to a project you were involved in and says: "That's impressive, it looks like it took some fairly sophisticated Python skills to deliver successfully".
 
 **Do not reply**: "Oh no, actually I'm really not ..." and try to wave away the admiration (even if your first thought is of all the mistakes, dead-ends and bungled implementations that you came up with along the way, and the numerous people who helped dig you out of your own holes).
 
-Self-deprecation is not humility. It's false and distancing, a deflection from scrutiny of yourself. 
+Self-deprecation is not humility. It's false and distancing, a deflection from scrutiny of yourself.
 
 Candidates sometimes say self-deprecating things because they're rattled by an interviewer's praise or admiration. Perhaps they worry that they're accepting something they don't really deserve, but *whatever* the reason, it doesn't make them look more honest and humble. It makes them look evasive and dubious, as if their other apparent praiseworthy attributes might also not be what they seem.
 
@@ -376,7 +382,7 @@ Candidates sometimes say self-deprecating things because they're rattled by an i
 Embrace pride and praise
 -------------------------
 
-Embrace pride in what you have done, and other people's praise of your achievements. 
+Embrace pride in what you have done, and other people's praise of your achievements.
 
 Acknowledge both the pride and praise: "Thank you". Allow yourself to own them: "To be honest, it means a lot to me that other people value that." Or: "Yes, I am really proud of the results". Then you can add the other things you want to say: "... and I am proud of the fact that I delivered them despite not being an especially strong Python programmer, and I had to learn a lot while working on it".
 
@@ -396,19 +402,19 @@ The important thing is to describe it with honesty and to own your mistakes just
 9: Admit vulnerability
 ===========================
 
-An interview is often a high-stress situation. The pressure is on *you*. Perhaps you're not an experienced interviewee, or don't know what to expect, or you're one of those people who always comes up with the answer they wanted to give five minutes too late. 
+An interview is often a high-stress situation. The pressure is on *you*. Perhaps you're not an experienced interviewee, or don't know what to expect, or you're one of those people who always comes up with the answer they wanted to give five minutes too late.
 
 Whatever form it takes, candidates almost invariably try to hide their vulnerability. It's a mistake; **if you feel vulnerable in an interview, acknowledge and admit it**.
 
 
-Name it 
+Name it
 --------
 
-The first thing to do is to recognise and name what is going on to *yourself* ("I am feeling really nervous"). Then, say it out loud, and name it to your interviewer: "I am sorry, I am not used to being in interviews like this and I feel really nervous". It is *absolutely fine* to do this. 
+The first thing to do is to recognise and name what is going on to *yourself* ("I am feeling really nervous"). Then, say it out loud, and name it to your interviewer: "I am sorry, I am not used to being in interviews like this and I feel really nervous". It is *absolutely fine* to do this.
 
-When you are feeling flustered and realise that you are struggling, naming it has multiple effects. First, it puts *your* label on it, which is much safer than having someone else name it for you ("This person just talks gibberish!"). Now *you* own it. 
+When you are feeling flustered and realise that you are struggling, naming it has multiple effects. First, it puts *your* label on it, which is much safer than having someone else name it for you ("This person just talks gibberish!"). Now *you* own it.
 
-Second, labelling negative things immediately makes them easier to see and deal with; as soon as you have said it you will probably feel calmer. 
+Second, labelling negative things immediately makes them easier to see and deal with; as soon as you have said it you will probably feel calmer.
 
 Third, your interviewer, who is also a human being, will almost certainly understand and empathise with you. Don't be surprised if the interviewer says sympathetically: "I know exactly how you feel" Or even, after a pause "Actually, this is my first interview on my own and I was feeling a bit nervous too!"
 
@@ -424,13 +430,13 @@ You might be taken aback by an unexpected question, technical, professional or o
 
 \
 
-    I haven't done that in Go, but I have in Python, and I will do my best to describe the general approach I would take. 
+    I haven't done that in Go, but I have in Python, and I will do my best to describe the general approach I would take.
 
 \
 
     I am not sure - I'll say what I think about this but please tell me if I am on the right track or not.
 
-As well as being honest and open, responses like this show a willingness to engage and find the right way forward. In the workplace, you're going to have any number of conversations where you don't fully understand what someone says, or you're not familiar with a technical topic, or have to deal with something unexpected. 
+As well as being honest and open, responses like this show a willingness to engage and find the right way forward. In the workplace, you're going to have any number of conversations where you don't fully understand what someone says, or you're not familiar with a technical topic, or have to deal with something unexpected.
 
 How you respond now shows an interviewer how you will respond if you become a colleague.
 
@@ -440,7 +446,7 @@ Do not invent
 
 **The worst thing you can do is try to an invent an answer when you don't have one.** It never succeeds in hiding the gaps, and it always makes you look bad. At least if you take one of the approaches above, an interviewer can explain better, or connect the discussion to something you *do* understand. You have given them a chance to help you.
 
-There is hardly anything more excruciating for an interviewer than to listen to someone who is making things up, talking vaguely about things they don't really know. It's generic, unspecific and boring. The interviewer has the sensation of talking with someone who is trying to blow smoke into their eyes to obscure the gaps.  
+There is hardly anything more excruciating for an interviewer than to listen to someone who is making things up, talking vaguely about things they don't really know. It's generic, unspecific and boring. The interviewer has the sensation of talking with someone who is trying to blow smoke into their eyes to obscure the gaps.
 
 
 .. _interviewing-rules-confront-weaknesses:
@@ -454,15 +460,15 @@ Consider:
 
     I realised I had a problem with xxx. I discussed it with my manager, who suggested an effective strategy: ... That really helped, and since then ... I know I still have to work on it, but to be honest I am quite proud of the way I dealt with it.
 
-\ 
+\
 
     I have to deal with yyy quite often, and I want to be able to do it better than I've succeeded in doing so far. I recently signed up for a training course, which has already helped. I also read *<book>*, which was recommended to me. I think the next step is for me to ...
 
-\ 
+\
 
     I found that I was struggling with zzz. I asked a more experienced colleague for advice. She told me (to my surprise) that she had had exactly the same problems, and we came up with a plan that really helped. What was even more surprising was that other colleagues revealed that they also found it hard, and so some of us have been working on it together - it has helped other people too.
 
-These are all excellent examples of **confronting weakness directly**. 
+These are all excellent examples of **confronting weakness directly**.
 
 Just as when it comes to feeling vulnerable in an interview situation, when you discuss a weakness, *identify the problem before someone else gets to name it for you*. Be factual, and show your understanding of its implications. Above all, you need to show how you addressed - or are addressing - it.
 
@@ -472,19 +478,21 @@ It's very unimpressive when a candidate who is invited to discuss weaknesses def
 Really serious weakness
 -----------------------
 
-If you have you an on-going, unaddressed problem ("I've always had a problem with time-management") you actually have two weaknesses. One is the problem itself. The other is that you have failed to do anything about it, and probably that is the more serious weakness. 
+If you have you an on-going, unaddressed problem ("I've always had a problem with time-management") you actually have two weaknesses. One is the problem itself. The other is that you have failed to do anything about it, and probably that is the more serious weakness.
 
 It's likely that an effective hiring process is going to discover it, whatever you say about it.
 
 
-11: Do your research 
+.. _interviewing-rules-research:
+
+11: Do your research
 ====================================
 
 A prospective employer doesn't necessarily expect candidates to be bursting with enthusiasm for a particular role or for the company. You *hope* that this is going to be the right one for you, and the interview process helps you discover that. But you are expected to be fully engaged and demonstrably serious. **Do your research, and use it; talk and ask about what you have learned.**
 
-Learn about the **organisation**, its history and its business model, and key people in it. Learn about its products; you need to be able to name them and say what they do, and ask intelligent questions about them. Look at, and form opinions of, the things that the company makes that are connected to this role. 
+Learn about the **organisation**, its history and its business model, and key people in it. Learn about its products; you need to be able to name them and say what they do, and ask intelligent questions about them. Look at, and form opinions of, the things that the company makes that are connected to this role.
 
-Do your research on the **work**. I am regularly astounded to read in interviewers' scorecards for technical author roles that the candidate *has not looked at any of our documentation*. What sort of curiosity does that demonstrate? 
+Do your research on the **work**. I am regularly astounded to read in interviewers' scorecards for technical author roles that the candidate *has not looked at any of our documentation*. What sort of curiosity does that demonstrate?
 
 On the other hand, it's always a positive sign when one of those candidate says something like "I read some of the documentation for xxx, and noticed yyy", and wants to have a conversation about it. It doesn't just show curiosity and interest, it also demonstrates their ability to discuss work.
 
@@ -503,6 +511,8 @@ This is a mistake. Firstly, it's very unlikely that asking a difficult question 
 And if it turns out that asking a question like that counts against you, then you had a lucky escape, because you do not want to work at an organisation where it's not safe to ask questions.
 
 
+.. _interviewing-rules-be-human:
+``
 12: Be a human being
 ====================
 
@@ -512,7 +522,7 @@ Many of the rules above are about ways for you to be your true self. Lately, new
 Inauthentic CVs
 ---------------
 
-There are numerous popular websites that purport to help improve your chances as a job applicant by optimising your CV. Amongst other things, these sites offer CV templates. A very common format that I see a lot comes from `a template provided by ResumeWorded <https://docs.google.com/document/d/1SZUWADBFotxsfm0djiA0WIpaKzel3PkdD04gkradrOQ/edit>`_. 
+There are numerous popular websites that purport to help improve your chances as a job applicant by optimising your CV. Amongst other things, these sites offer CV templates. A very common format that I see a lot comes from `a template provided by ResumeWorded <https://docs.google.com/document/d/1SZUWADBFotxsfm0djiA0WIpaKzel3PkdD04gkradrOQ/edit>`_.
 
 In fact, it's not a bad layout. However, the kind of content and the style of writing that they recommend to use in it are stereotypical and inauthentic:
 
@@ -524,11 +534,11 @@ Don't ever make things up. Over-quantified impact claims like this ring complete
 
     Action verbs are important on your resume are vital [sic]. They evoke strong imagery to your reader, [...] by using words such as "spearheaded", "managed" and "drove".
 
-It's correct that :ref:`you should say what you did and why it mattered, and not just list responsibilities <interviewing-rules-demonstrate-value>`, but the advice above and their examples are dreadful. **It makes the candidate look like a liar.** 
+It's correct that :ref:`you should say what you did and why it mattered, and not just list responsibilities <interviewing-rules-demonstrate-value>`, but the advice above and their examples are dreadful. **It makes the candidate look like a liar.**
 
 No normal person uses language in their speech this way; don't use it in your CV, unless you also want to sound weird.
 
-Some of these sites provide a service that will ingest your CV and a job description, and rewrite the former  (perhaps more accurately, manufacture a fake version of it) so that it best matches the latter. Or, they offer hundreds of bullet points for you to copy and paste into your CV. 
+Some of these sites provide a service that will ingest your CV and a job description, and rewrite the former  (perhaps more accurately, manufacture a fake version of it) so that it best matches the latter. Or, they offer hundreds of bullet points for you to copy and paste into your CV.
 
 These CVs are not just bad, but *inauthentic*, and the practices encouraged by such websites are dishonest.
 
@@ -542,15 +552,15 @@ ChatGPT and friends
 
 LLM language and patterns appear in CVs, and also on application forms, written interviews and even in applicants' conversation. (I have even encountered a candidate trying to use an LLM to come up with answers in real-time during an interview, with predictable results.)
 
-I hire technical authors for software documentation roles. The application form asks candidates to say what they enjoy about technical communication and writing. 
+I hire technical authors for software documentation roles. The application form asks candidates to say what they enjoy about technical communication and writing.
 
-When a person describes their enjoyment of something, their eyes light up with pleasure. We look for the same kind of response in candidates' writing. When it's real, they *want* to tell you about it. It comes from the heart, and everyone seems to have their own different, personal way of putting it. 
+When a person describes their enjoyment of something, their eyes light up with pleasure. We look for the same kind of response in candidates' writing. When it's real, they *want* to tell you about it. It comes from the heart, and everyone seems to have their own different, personal way of putting it.
 
 Unfortunately, many candidates refer this question - which is about *themselves* - to their favourite LLM. Their answers use patterns of words and stereotypical formulations that are instantly recognisable. The language is impersonal and *dead* (or sometimes, animated by a completely false enthusiasm, which is even worse).
 
 That's just one example. We see this happening over and over again, across dozens of different roles, and all kinds of questions. The problem is not just that LLM-generated material is generic and weak, it's also often simply just *wrong*. For any given topic, an LLM will tend to regurgitate a kind of a lowest-common-denominator conventional wisdom that looks plausible, but misses what is actually at stake.
 
-These are not successful applications. 
+These are not successful applications.
 
 
 Being yourself and standing out
@@ -561,17 +571,17 @@ Being yourself and standing out
     ..  image:: /images/chatbot.png
         :alt: 'I would like to demonstrate my depth of insight by pasting in some words I copied from a chatbot'
 
-Successful candidates stand out. Candidates who use AI tools are sometimes barely distinguishable from one another. We repeatedly warn candidates against using AI tools in their applications, but many still fall into the trap. 
+Successful candidates stand out. Candidates who use AI tools are sometimes barely distinguishable from one another. We repeatedly warn candidates against using AI tools in their applications, but many still fall into the trap.
 
 Confident, experienced candidates who believe in themselves are not tempted to turn to AI tools. It's the ones who are less sure of themselves who do, hoping for a little extra help
 
 If you don't believe in yourself, you can hardly expect anyone else to believe in you.
 
-The people who read applicants' CVs may encounter hundreds of them that exhibit AI traits. I see CVs over and over again that contain *literally the same phrases, expressions and claims*. 
+The people who read applicants' CVs may encounter hundreds of them that exhibit AI traits. I see CVs over and over again that contain *literally the same phrases, expressions and claims*.
 
 It is creepy to see the same language appearing in applications from people across a range of backgrounds and regions of the world, and disturbing to see individual personality and cultural difference effaced by crude AI tools.
 
-Only a human being will get the job you apply for, so be a human being. 
+Only a human being will get the job you apply for, so be a human being.
 
 ----------
 
