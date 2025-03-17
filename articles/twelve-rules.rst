@@ -316,7 +316,7 @@ It doesn't matter *which* perspective you choose, because each one is as valuabl
 7: Tell stories
 =====================
 
-One of the things that human beings do best is to :ref:`make wholes out of parts <parts-not-wholes>`. Another is to **make sense of things through stories**.
+One of the things that human beings do best is to :ref:`make wholes out of parts <interviewing-rules-parts-not-wholes>`. Another is to **make sense of things through stories**.
 
 ..  sidebar::
 
@@ -512,7 +512,7 @@ And if it turns out that asking a question like that counts against you, then yo
 
 
 .. _interviewing-rules-be-human:
-``
+
 12: Be a human being
 ====================
 
