@@ -3,18 +3,24 @@
 .. _workshops-april-2025:
 
 Diátaxis and documentation success workshop, April 2025
-===============================================================================
+=======================================================
 
 ..  rubric:: Online, free and exclusively for open knowledge projects
 
 
 I will be hosting a free two-part documentation workshop. This workshop is dedicated to documentation contributors to **open knowledge projects**, and especially those that already use `Diátaxis <https://diataxis.fr>`_.
 
+
+Qualifying projects
+-------------------
+
+*Qualifying projects are those whose purpose is to gather knowledge and make it available in a sharable form, for public benefit.* Examples of open knowledge projects: Wikipedia/Wikimedia Foundation, OpenStreetMap, Open Knowledge Foundation and so on. 
+
 ..  sidebar::
 
     Not sure if the project you participate in qualifies? :ref:`Apply anyway <workshop-april-2025-register>` and I will let you know.
 
-Examples of open knowledge projects: Wikipedia/Wikimedia Foundation, OpenStreetMap, Open Knowledge Foundation and so on.
+On this occasion, open source *software* projects don't qualify - I've run dozens of free workshops for open source projects in the past and will do so again.
 
 
 Format and expectations
