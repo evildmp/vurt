@@ -14,7 +14,9 @@ I will be hosting a free two-part documentation workshop. This workshop is dedic
 Qualifying projects
 -------------------
 
-*Qualifying projects are those whose purpose is to gather knowledge and make it available in a sharable form, for public benefit.* Examples of open knowledge projects: Wikipedia/Wikimedia Foundation, OpenStreetMap, Open Knowledge Foundation and so on. 
+*Qualifying projects are those whose purpose is to gather knowledge and make it available in a sharable form, for public benefit.*
+
+Examples of open knowledge projects: Wikipedia/Wikimedia Foundation, OpenStreetMap, Open Knowledge Foundation and so on.
 
 ..  sidebar::
 
