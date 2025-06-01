@@ -21,8 +21,8 @@ There's no shortage of easily-discoverable advice aimed at job applicants, and I
 
 What do I know about all this?
 ------------------------------
- 
-During my time as a hiring lead at Canonical, I have been in charge of pipelines that have handled many thousands of applications and have hired dozens of new colleagues, in different roles. 
+
+During my time as a hiring lead at Canonical, I have been in charge of pipelines that have handled many thousands of applications and have hired dozens of new colleagues, in different roles.
 
 I have personally reviewed thousands of applications (and read thousands of CVs) and conducted hundreds of interviews. I have trained around two dozen interviewers for these roles, and guide and mentor new hiring leads.
 
@@ -42,6 +42,7 @@ Other topics
 ..  toctree::
     :titlesonly:
 
+    on-teaching
     Find your way into open-source software <becoming-a-contributor>
     Attendee safety at African Python community events <on-safety>
     principles-documentation
