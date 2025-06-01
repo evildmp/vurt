@@ -94,7 +94,7 @@ He'd had a lot of fun learning about it; in fact he had taken his pages home on 
 
 "That's very nice," I told him, before telling him to remove all of his formatting, and pointing him at the chapter on CSS.
 
-He wasn't very pleased about that. Even after successfully implementing a basic style sheet he was completely underwhelmed by the value he saw for his efforts: "What's the point?"
+He wasn't at all happy about that. Even after successfully implementing a basic style sheet he was completely underwhelmed by the value he saw for his efforts: "What's the point?"
 
 After some grumbling I was able to persuade him to go on. Ten minutes later I was rewarded with an exclamation: "Woah! Look at that!"
 
