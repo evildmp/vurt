@@ -1,6 +1,10 @@
 Finding your way into open-source software contribution
 ========================================================
 
+*19th August 2023*
+
+--------------
+
 Most people who become participants in open-source software find their way in
 *organically* - they were somewhere, or they were doing something, and
 open-source software was there to be discovered.
@@ -113,7 +117,7 @@ In many cases you're likely to find that you need to learn new skills even to
 make a simple contribution - there's often a hidden overhead to contribution.
 For example, a code contribution might not be accepted unless you also
 include the relevant tests and documentation. You may need to learn to set up
-the test environment and run the test suite, or linters. There are likely to 
+the test environment and run the test suite, or linters. There are likely to
 be contribution standards for patches that you need to meet.
 
 If all your energy goes into making the improvement you want to contribute,

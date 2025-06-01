@@ -3,6 +3,11 @@
 How to use stories in interviews
 ===================================
 
+*29th July 2022*
+
+--------------
+
+
 The challenge for an interviewee is to make the most of the opportunities presented to them. Each
 question in an interview should be seen as an invitation to the candidate to reveal something
 valuable - a strength, a depth of experience, an insight, an attitude, character.
@@ -94,8 +99,8 @@ Stories help avoid this, because by their nature, they work to draw out what's r
 Language alone can help to perform this function. Consider how you might complete or use some of
 these phrases when thinking about an episode from your past:
 
-* **observation**: *I noticed... I discovered...* 
-* **thinking**: *I realised... I calculated... I judged...* 
+* **observation**: *I noticed... I discovered...*
+* **thinking**: *I realised... I calculated... I judged...*
 * **value**: *I felt... I was bothered by... I wanted...*
 * **action**: *I decided... I asked... I changed...*
 * **result**: *as a result... in consequence...*

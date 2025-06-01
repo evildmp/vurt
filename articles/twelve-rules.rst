@@ -4,6 +4,11 @@
 Twelve rules for job applications and interviews
 ================================================
 
+*24th August 2024*
+
+--------------
+
+
 ..  sidebar::
 
     :ref:`What I know about hiring and interviewing <what-do-i-know>`
