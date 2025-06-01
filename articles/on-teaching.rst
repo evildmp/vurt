@@ -22,7 +22,7 @@ Almost daily, when I remember to put it into practice it makes a difference to t
 
 In 2005 I was a high-school teacher, teaching ICT - Information and Communications Technology. It was an unattractive name for an unsatisfactory subject, and I quickly realised I didn't enjoy it.
 
-The curriculum (`EdExcel's Intermediate GNVQ Information and Communications Technology <https://web.archive.org/web/20051206020755/http://www.edexcel.org.uk/quals/gnvq/ict/int/gy206/>`_) had no feeling for computers or computing. It didn't connect with the ideas and open-ended possibilities of computing that make it so exciting, nor with the rigour and precision that give it meaning.
+The curriculum (`EdExcel's Intermediate GNVQ Information and Communications Technology <https://web.archive.org/web/20051206020755/http://www.edexcel.org.uk/quals/gnvq/ict/int/gy206/>`_) had no feeling for computers or computing. It didn't connect with the ideas and open-ended possibilities of computing that make it exciting, nor with the rigour and precision that give it meaning.
 
 I was also unimpressed with the way it was delivered at the school. I thought it was unimaginative and sloppy.
 
