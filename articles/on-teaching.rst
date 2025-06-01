@@ -6,6 +6,8 @@ On teaching
 
 *1st June 2025*
 
+-----------
+
 An idea that has informed how I think about learning (and what I do when I want someone to learn something) is that *I can't teach; all I can do is provide a learning experience*.
 
 I think it must be one of the most important things I believe.
