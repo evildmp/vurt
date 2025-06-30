@@ -202,7 +202,7 @@ All this is to insist that **knowledge and information must be objects in our wo
 
 As objects, information must be well-designed -- structured and created to fit and resist in the right ways. Everything that is strong, enduring and empowers us in our relationship with knowledge recognises that. The designer of good information understands it implicitly, just as the designer of good objects does.
 
-The convenience of web searches has eroded some of our deeper relationships with knowledge, particularly in those who had not already acquired a strong sense of its spatial nature. As the colleague who prompted this discussion pointed out, in the age of LLM-first information discovery, those relationships are at new risk.
+The convenience of web searches has eroded some of our deeper relationships with knowledge, particularly in those who have not already acquired a strong sense of its spatial nature. As the colleague who prompted this discussion pointed out, in the age of LLM-first information discovery, those relationships are at new risk.
 
 ..  sidebar::
 
