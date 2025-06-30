@@ -186,7 +186,7 @@ It happened astonishingly fast; within about five years a knowledge skill that I
 Diminished encounters
 -----------------------
 
-I noticed another effect. A teacher can see evidence of students' experiences and encounters of knowledge. Those things would appear tangibly in their work. Sometimes I would recognise a particular book they had taken out of the library, that happened to be physically close on the shelves to something else on their reading lists. (More than once, I realised a student had made the same chance discovery that I had as an undergraduate. I felt the same kind of thrill as discovering that someone you have met shares your taste in music or art.)
+I noticed another effect. A teacher can see evidence of students' experiences and encounters of knowledge. Those things would appear tangibly in their work. Sometimes I would recognise a particular book they had taken out of the library, that happened to be physically close on the shelves to something else on their reading lists. (More than once, I realised a student had made the same chance discovery that I had as an undergraduate. I felt the kind of thrill you feel when discovering that someone shares your taste in music or art.)
 
 Later, as they used more material that they had found and read electronically, I saw fewer of these particular and recognisable experiences expressed in the work they produced. Their work became smoothed out, and more like each others'. They had ever more material at their fingertips, and used less, and knew less about it, and were less confident about what they could or should use.
 
