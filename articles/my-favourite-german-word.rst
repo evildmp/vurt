@@ -99,7 +99,7 @@ In fact, they don't want objects to be over-fitted. **Over-fitted objects are se
 People
 ======
 
-The same principles apply to our relationships with people. People must be *Gegenstanden*, who stand against you because they have their own integrity, and do not conform to what you want just because you want it.
+The same principles apply to our relationships with people. People must be *Gegenstände*, who stand against you because they have their own integrity, and do not conform to what you want just because you want it.
 
 A friend is a person who fits *and* resists in the right way, someone you can to stand against to measure yourself by them. A friend is not someone who *only* fits.
 
@@ -109,7 +109,7 @@ Like an object that relinquishes its own integrity, a person who moulds themselv
 Knowledge and information
 =========================
 
-Knowledge and information are *Gegenstanden* too.
+Knowledge and information are *Gegenstände* too.
 
 They have their own rules. Integrity and resistance to our will are part of their nature. When they fit our needs, we are delighted -- but if they become servile, made to conform to what we want them to be, they lose their worth. A news source that only tells us what we want to hear is as dangerous and treacherous as a person who does.
 
@@ -119,7 +119,7 @@ Sometimes we might not *want* them to, but we *need* knowledge and information t
 Information in space
 --------------------
 
-Because they are *Gegenstanden*, our relationship with them is *spatial*.
+Because they are *Gegenstände*, our relationship with them is *spatial*.
 
 We ask *where* information is, and we organise it in space. It's not a coincidence or metaphor that we use the language of searching and finding, or that we have concepts like information architecture.
 
@@ -141,7 +141,7 @@ Experiences of knowledge
 
 ..  sidebar::
 
-    Experience of any kind is only possible in a world of *Gegenstanden*.
+    Experience of any kind is only possible in a world of *Gegenständen*.
 
 Because of the library's rational hierarchical structure of information, I had many *experiences of knowledge*.
 
@@ -198,7 +198,7 @@ They rarely picked up adjacent knowledge, because things weren't adjacent any mo
 Standing up for knowledge
 =========================
 
-All this is to insist that **knowledge and information must be objects in our world**, *Gegenstanden*, and that their being something that can stand against us is essential to their nature.
+All this is to insist that **knowledge and information must be objects in our world**, *Gegenstände*, and that their being something that can stand against us is essential to their nature.
 
 As objects, information must be well-designed -- structured and created to fit and resist in the right ways. Everything that is strong, enduring and empowers us in our relationship with knowledge recognises that. The designer of good information understands it implicitly, just as the designer of good objects does.
 
