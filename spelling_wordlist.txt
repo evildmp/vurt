@@ -11,12 +11,14 @@ discoverable
 disvalue
 Divio
 Dockerised
+doesn
 Dogbe
 endedness
 Geraint
 Groningen
 Haag
 hoc
+inconsidered
 Kanae
 Kandoza
 linters
@@ -25,6 +27,7 @@ Makarudze
 mentorship
 Mhangami
 Muheue
+naïvety
 Ngazetungue
 nginx
 Nginx

@@ -42,6 +42,7 @@ Other topics
 ..  toctree::
     :titlesonly:
 
+    my-favourite-german-word
     on-teaching
     Find your way into open-source software <becoming-a-contributor>
     Attendee safety at African Python community events <on-safety>
