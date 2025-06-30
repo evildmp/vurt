@@ -1,4 +1,5 @@
-..  rubric:: If creators of documentation are prepared to sacrifice its human purpose in order that LLMs can more effectively slurp it up and regurgitate it on demand, then they have meekly accepted values that more properly belong in a dystopian horror story.
+.. meta::
+   :description: If creators of documentation are prepared to sacrifice its human purpose in order that LLMs can more effectively slurp it up and regurgitate it on demand, then they have meekly accepted values that more properly belong in a dystopian horror story.
 
 
 .. _my-favourite-german-word:
