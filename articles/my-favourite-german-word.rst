@@ -304,6 +304,6 @@ Documentation does not have value as an expedient answer to a particular questio
 
 **Documentation has value as a rational territory of knowledge**, one that can be discovered, inhabited, navigated and returned to because it occupies an organised information space. It has value when it has been designed to fit and resist in ways that mean we can grasp it with confidence.
 
-To do that it must be part of a world of information *Gegendstanden* for its users, to serve our skill without ever being servile, to stand against us with integrity.
+To do that it must be part of a world of information *Gegenständen* for its users, to serve our skill without ever being servile, to stand against us with integrity.
 
 *That* is the point of your job.
