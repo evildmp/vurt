@@ -101,7 +101,7 @@ People
 
 The same principles apply to our relationships with people. People must be *Gegenstände*, who stand against you because they have their own integrity, and do not conform to what you want just because you want it.
 
-A friend is a person who fits *and* resists in the right way, someone you can to stand against to measure yourself by them. A friend is not someone who *only* fits.
+A friend is a person who fits *and* resists in the right way, someone you can stand against to measure yourself by them. A friend is not someone who *only* fits.
 
 Like an object that relinquishes its own integrity, a person who moulds themselves against you is creepy - a false friend.
 
