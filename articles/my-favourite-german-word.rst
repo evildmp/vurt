@@ -198,7 +198,7 @@ They rarely picked up adjacent knowledge, because things weren't adjacent any mo
 Standing up for knowledge
 =========================
 
-All this is to insist that **knowledge and information must be objects in our world**, *Gegenstände*, and that their being something that can stand against us is essential to their nature.
+All this is to insist that **knowledge and information must be objects in our world**, *Gegenstände*, that it's essential to their nature to be something that can stand against us.
 
 As objects, information must be well-designed -- structured and created to fit and resist in the right ways. Everything that is strong, enduring and empowers us in our relationship with knowledge recognises that. The designer of good information understands it implicitly, just as the designer of good objects does.
 
